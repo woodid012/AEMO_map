@@ -4,12 +4,12 @@
     "image": "assets/nsw.png",
     "bounds": [
       [
-        -37.068941943064516,
-        140.70532171987423
+        -37.5,
+        140.9
       ],
       [
-        -27.999577856670992,
-        154.22097405273178
+        -28.0,
+        153.7
       ]
     ],
     "anchors_used": [
@@ -250,19 +250,21 @@
     "img_w": 1865,
     "img_h": 1468,
     "used_fallback_bounds": false,
-    "median_residual_deg": 0.11479126359097336
+    "median_residual_deg": 0.11479126359097336,
+    "warp_method": "thin_plate_spline",
+    "warp_anchors": 28
   },
   {
     "state": "QLD",
     "image": "assets/qld.png",
     "bounds": [
       [
-        -29.554574504072136,
-        140.2229444505877
+        -29.5,
+        137.9
       ],
       [
-        -15.43171162350556,
-        154.1112875909892
+        -10.0,
+        154.0
       ]
     ],
     "anchors_used": [
@@ -807,19 +809,21 @@
     "img_w": 1899,
     "img_h": 2131,
     "used_fallback_bounds": false,
-    "median_residual_deg": 0.1789926499271246
+    "median_residual_deg": 0.1789926499271246,
+    "warp_method": "thin_plate_spline",
+    "warp_anchors": 66
   },
   {
     "state": "SA",
     "image": "assets/sa.png",
     "bounds": [
       [
-        -38.29920370857226,
-        135.24669814483906
+        -38.5,
+        129.0
       ],
       [
-        -30.130637582429767,
-        140.99607984165974
+        -25.9,
+        141.1
       ]
     ],
     "anchors_used": [
@@ -988,19 +992,21 @@
     "img_w": 831,
     "img_h": 1375,
     "used_fallback_bounds": false,
-    "median_residual_deg": 0.08601265153706095
+    "median_residual_deg": 0.08601265153706095,
+    "warp_method": "thin_plate_spline",
+    "warp_anchors": 19
   },
   {
     "state": "TAS",
     "image": "assets/tas.png",
     "bounds": [
       [
-        -43.74608989613204,
-        144.07642608043267
+        -43.7,
+        144.5
       ],
       [
-        -40.411481861926326,
-        148.9873810517764
+        -39.5,
+        148.5
       ]
     ],
     "anchors_used": [
@@ -1185,19 +1191,21 @@
     "img_w": 799,
     "img_h": 643,
     "used_fallback_bounds": false,
-    "median_residual_deg": 0.10130261695952925
+    "median_residual_deg": 0.10130261695952925,
+    "warp_method": "thin_plate_spline",
+    "warp_anchors": 21
   },
   {
     "state": "VIC",
     "image": "assets/vic.png",
     "bounds": [
       [
-        -39.99985904831984,
-        140.84520715450145
+        -39.3,
+        140.9
       ],
       [
-        -33.95472572637266,
-        150.2771610935789
+        -33.9,
+        150.0
       ]
     ],
     "anchors_used": [
@@ -1286,6 +1294,8 @@
     "img_w": 1313,
     "img_h": 1032,
     "used_fallback_bounds": false,
-    "median_residual_deg": 0.13621907821929824
+    "median_residual_deg": 0.13621907821929824,
+    "warp_method": "thin_plate_spline",
+    "warp_anchors": 9
   }
 ]

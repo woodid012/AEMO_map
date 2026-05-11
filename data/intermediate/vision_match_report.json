@@ -17,8 +17,9 @@
         "label_conf": "medium",
         "page_x": 57.9,
         "page_y": 38.5,
-        "lat": -40.81163,
-        "lon": 144.78851
+        "lat": -40.81754,
+        "lon": 144.79449,
+        "coord_method": "tps"
       },
       "match_score": 0.683,
       "project_site": "Woolnorth Studland Bay / Bluff Point",
@@ -41,8 +42,9 @@
         "label_conf": "medium",
         "page_x": 63.9,
         "page_y": 48.2,
-        "lat": -40.91167,
-        "lon": 144.86218
+        "lat": -40.90851,
+        "lon": 144.88904,
+        "coord_method": "tps"
       },
       "match_score": 0.726,
       "project_site": "Woolnorth Studland Bay / Bluff Point",
@@ -65,8 +67,9 @@
         "label_conf": "high",
         "page_x": 107.8,
         "page_y": 40.1,
-        "lat": -40.82831,
-        "lon": 145.40238
+        "lat": -40.8043,
+        "lon": 145.40439,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Port Latta Wind Farm",
@@ -89,12 +92,13 @@
         "label_conf": "medium",
         "page_x": 187.6,
         "page_y": 80.3,
-        "lat": -41.24513,
-        "lon": 146.38457
+        "lat": -41.26042,
+        "lon": 146.41804,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "LST02 Data Hall",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 4,
@@ -113,8 +117,9 @@
         "label_conf": "high",
         "page_x": 171.6,
         "page_y": 75.5,
-        "lat": -41.19511,
-        "lon": 146.18814
+        "lat": -41.20376,
+        "lon": 146.19809,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Repulse",
@@ -137,12 +142,13 @@
         "label_conf": "high",
         "page_x": 171.6,
         "page_y": 83.5,
-        "lat": -41.27848,
-        "lon": 146.18814
+        "lat": -41.26766,
+        "lon": 146.21073,
+        "coord_method": "tps"
       },
       "match_score": 0.574,
       "project_site": "George Town Battery System",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 6,
@@ -161,8 +167,9 @@
         "label_conf": "high",
         "page_x": 159.6,
         "page_y": 99.5,
-        "lat": -41.44521,
-        "lon": 146.04081
+        "lat": -41.40268,
+        "lon": 146.03252,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Repulse",
@@ -185,12 +192,13 @@
         "label_conf": "high",
         "page_x": 169.6,
         "page_y": 106.0,
-        "lat": -41.5119,
-        "lon": 146.16358
+        "lat": -41.4698,
+        "lon": 146.09477,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Palmerston Battery Energy Storage System - Akaysha",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 8,
@@ -209,8 +217,9 @@
         "label_conf": "high",
         "page_x": 175.6,
         "page_y": 115.6,
-        "lat": -41.61194,
-        "lon": 146.23725
+        "lat": -41.56995,
+        "lon": 146.09453,
+        "coord_method": "tps"
       },
       "match_score": 0.54,
       "project_site": "Devils Gate",
@@ -233,8 +242,9 @@
         "label_conf": "high",
         "page_x": 179.6,
         "page_y": 123.6,
-        "lat": -41.69531,
-        "lon": 146.28636
+        "lat": -41.65899,
+        "lon": 146.09139,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Fisher",
@@ -257,8 +267,9 @@
         "label_conf": "high",
         "page_x": 179.6,
         "page_y": 131.6,
-        "lat": -41.77867,
-        "lon": 146.28636
+        "lat": -41.753,
+        "lon": 146.05118,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Rowallan",
@@ -281,8 +292,9 @@
         "label_conf": "high",
         "page_x": 123.7,
         "page_y": 125.2,
-        "lat": -41.71198,
-        "lon": 145.59882
+        "lat": -41.67231,
+        "lon": 145.62414,
+        "coord_method": "tps"
       },
       "match_score": 0.593,
       "project_site": "Tarraleah",
@@ -305,8 +317,9 @@
         "label_conf": "high",
         "page_x": 131.7,
         "page_y": 133.2,
-        "lat": -41.79534,
-        "lon": 145.69704
+        "lat": -41.76539,
+        "lon": 145.64624,
+        "coord_method": "tps"
       },
       "match_score": 0.587,
       "project_site": "Tarraleah",
@@ -329,8 +342,9 @@
         "label_conf": "high",
         "page_x": 135.7,
         "page_y": 144.5,
-        "lat": -41.91206,
-        "lon": 145.74615
+        "lat": -41.89826,
+        "lon": 145.60234,
+        "coord_method": "tps"
       },
       "match_score": 0.594,
       "project_site": "Trevallyn",
@@ -353,8 +367,9 @@
         "label_conf": "high",
         "page_x": 79.8,
         "page_y": 128.4,
-        "lat": -41.74533,
-        "lon": 145.05862
+        "lat": -41.7119,
+        "lon": 145.15997,
+        "coord_method": "tps"
       },
       "match_score": 0.599,
       "project_site": "Reece",
@@ -377,8 +392,9 @@
         "label_conf": "medium",
         "page_x": 71.8,
         "page_y": 142.9,
-        "lat": -41.89538,
-        "lon": 144.9604
+        "lat": -41.86308,
+        "lon": 145.08847,
+        "coord_method": "tps"
       },
       "match_score": 0.597,
       "project_site": "Granville Harbour Wind Farm",
@@ -401,8 +417,9 @@
         "label_conf": "high",
         "page_x": 307.3,
         "page_y": 44.9,
-        "lat": -40.87833,
-        "lon": 147.85786
+        "lat": -40.83201,
+        "lon": 147.8387,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Musselroe Wind Farm",
@@ -425,12 +442,13 @@
         "label_conf": "high",
         "page_x": 229.5,
         "page_y": 75.5,
-        "lat": -41.19511,
-        "lon": 146.90023
+        "lat": -41.23741,
+        "lon": 146.76978,
+        "coord_method": "tps"
       },
       "match_score": 0.757,
       "project_site": "George Town BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 18,
@@ -449,8 +467,9 @@
         "label_conf": "high",
         "page_x": 233.5,
         "page_y": 99.5,
-        "lat": -41.44521,
-        "lon": 146.94933
+        "lat": -41.4062,
+        "lon": 146.8431,
+        "coord_method": "tps"
       },
       "match_score": 0.583,
       "project_site": "Palmerston Battery Energy Storage System - Akaysha",
@@ -473,12 +492,13 @@
         "label_conf": "high",
         "page_x": 221.5,
         "page_y": 138.1,
-        "lat": -41.84536,
-        "lon": 146.80201
+        "lat": -41.83425,
+        "lon": 146.6419,
+        "coord_method": "tps"
       },
       "match_score": 0.884,
       "project_site": "Palmerston Big Battery",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 20,
@@ -497,8 +517,9 @@
         "label_conf": "high",
         "page_x": 213.5,
         "page_y": 150.9,
-        "lat": -41.97875,
-        "lon": 146.70379
+        "lat": -42.00053,
+        "lon": 146.52501,
+        "coord_method": "tps"
       },
       "match_score": 0.787,
       "project_site": "Palmerston Battery Energy Storage System - Akaysha",
@@ -521,8 +542,9 @@
         "label_conf": "high",
         "page_x": 235.5,
         "page_y": 142.9,
-        "lat": -41.89538,
-        "lon": 146.97389
+        "lat": -41.89302,
+        "lon": 146.86644,
+        "coord_method": "tps"
       },
       "match_score": 0.961,
       "project_site": "Palmerston BESS (Akaysha)",
@@ -545,12 +567,13 @@
         "label_conf": "high",
         "page_x": 241.5,
         "page_y": 150.9,
-        "lat": -41.97875,
-        "lon": 147.04755
+        "lat": -41.99758,
+        "lon": 146.9706,
+        "coord_method": "tps"
       },
       "match_score": 0.581,
       "project_site": "Cellars Hill BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 23,
@@ -569,8 +592,9 @@
         "label_conf": "high",
         "page_x": 117.7,
         "page_y": 171.8,
-        "lat": -42.1955,
-        "lon": 145.52516
+        "lat": -42.19878,
+        "lon": 145.47348,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "John Butters",
@@ -593,8 +617,9 @@
         "label_conf": "high",
         "page_x": 155.6,
         "page_y": 189.4,
-        "lat": -42.3789,
-        "lon": 145.9917
+        "lat": -42.42125,
+        "lon": 145.78036,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Rowallan",
@@ -617,8 +642,9 @@
         "label_conf": "high",
         "page_x": 173.6,
         "page_y": 191.0,
-        "lat": -42.39557,
-        "lon": 146.21269
+        "lat": -42.45933,
+        "lon": 146.04099,
+        "coord_method": "tps"
       },
       "match_score": 0.924,
       "project_site": "Tungatinah",
@@ -641,8 +667,9 @@
         "label_conf": "high",
         "page_x": 183.6,
         "page_y": 202.3,
-        "lat": -42.51228,
-        "lon": 146.33547
+        "lat": -42.59424,
+        "lon": 146.28572,
+        "coord_method": "tps"
       },
       "match_score": 0.851,
       "project_site": "Tungatinah",
@@ -665,8 +692,9 @@
         "label_conf": "high",
         "page_x": 193.6,
         "page_y": 207.1,
-        "lat": -42.5623,
-        "lon": 146.45824
+        "lat": -42.65928,
+        "lon": 146.48396,
+        "coord_method": "tps"
       },
       "match_score": 0.616,
       "project_site": "Tungatinah",
@@ -689,12 +717,13 @@
         "label_conf": "high",
         "page_x": 193.6,
         "page_y": 215.1,
-        "lat": -42.64567,
-        "lon": 146.45824
+        "lat": -42.73837,
+        "lon": 146.54627,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "LST02 Data Hall",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 29,
@@ -713,8 +742,9 @@
         "capacity_conf": "high",
         "page_x": 155.6,
         "page_y": 224.7,
-        "lat": -42.74571,
-        "lon": 145.9917
+        "lat": -42.77598,
+        "lon": 146.04,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Gordon",
@@ -737,8 +767,9 @@
         "label_conf": "high",
         "page_x": 201.5,
         "page_y": 176.6,
-        "lat": -42.24552,
-        "lon": 146.55646
+        "lat": -42.324,
+        "lon": 146.40726,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Repulse",
@@ -761,8 +792,9 @@
         "label_conf": "high",
         "page_x": 203.5,
         "page_y": 189.4,
-        "lat": -42.3789,
-        "lon": 146.58101
+        "lat": -42.48137,
+        "lon": 146.51486,
+        "coord_method": "tps"
       },
       "match_score": 0.54,
       "project_site": "Devils Gate",
@@ -785,8 +817,9 @@
         "label_conf": "high",
         "page_x": 207.5,
         "page_y": 199.1,
-        "lat": -42.47894,
-        "lon": 146.63012
+        "lat": -42.59624,
+        "lon": 146.64361,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "LST02 Data Hall",
@@ -809,8 +842,9 @@
         "label_conf": "high",
         "page_x": 213.5,
         "page_y": 207.1,
-        "lat": -42.5623,
-        "lon": 146.70379
+        "lat": -42.69009,
+        "lon": 146.78867,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Meadowbank",
@@ -833,12 +867,13 @@
         "label_conf": "high",
         "page_x": 193.1,
         "page_y": 187.8,
-        "lat": -32.36338,
-        "lon": 137.92016
+        "lat": -32.35788,
+        "lon": 137.64957,
+        "coord_method": "tps"
       },
       "match_score": 0.72,
       "project_site": "Davenport BESS Project",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 35,
@@ -857,12 +892,13 @@
         "label_conf": "high",
         "page_x": 184.8,
         "page_y": 197.0,
-        "lat": -32.47229,
-        "lon": 137.80517
+        "lat": -32.50417,
+        "lon": 137.59322,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "VS1",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 36,
@@ -881,12 +917,13 @@
         "label_conf": "high",
         "page_x": 176.5,
         "page_y": 203.8,
-        "lat": -32.55398,
-        "lon": 137.69019
+        "lat": -32.61747,
+        "lon": 137.54987,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Davenport BESS Project",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 37,
@@ -905,12 +942,13 @@
         "label_conf": "high",
         "page_x": 174.4,
         "page_y": 210.7,
-        "lat": -32.63566,
-        "lon": 137.66144
+        "lat": -32.71616,
+        "lon": 137.55913,
+        "coord_method": "tps"
       },
       "match_score": 0.622,
       "project_site": "Davenport BESS Project",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 38,
@@ -929,12 +967,13 @@
         "label_conf": "high",
         "page_x": 172.3,
         "page_y": 215.3,
-        "lat": -32.69012,
-        "lon": 137.63269
+        "lat": -32.77938,
+        "lon": 137.56452,
+        "coord_method": "tps"
       },
       "match_score": 0.871,
       "project_site": "Davenport BESS Project",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 39,
@@ -953,8 +992,9 @@
         "label_conf": "high",
         "page_x": 89.3,
         "page_y": 297.7,
-        "lat": -33.67035,
-        "lon": 136.48282
+        "lat": -33.65747,
+        "lon": 136.5213,
+        "coord_method": "tps"
       },
       "match_score": 0.588,
       "project_site": "Hallett Stage 2 Hallett Hill",
@@ -977,8 +1017,9 @@
         "label_conf": "high",
         "page_x": 56.1,
         "page_y": 382.5,
-        "lat": -34.67781,
-        "lon": 136.02286
+        "lat": -34.68378,
+        "lon": 135.87905,
+        "coord_method": "tps"
       },
       "match_score": 0.965,
       "project_site": "Port Lincoln GT",
@@ -1001,8 +1042,9 @@
         "label_conf": "high",
         "page_x": 27.0,
         "page_y": 403.1,
-        "lat": -34.92286,
-        "lon": 135.62041
+        "lat": -34.9442,
+        "lon": 135.44673,
+        "coord_method": "tps"
       },
       "match_score": 0.658,
       "project_site": "Lincoln Gap Wind Farm - Stage 2",
@@ -1025,8 +1067,9 @@
         "label_conf": "high",
         "page_x": 182.7,
         "page_y": 400.8,
-        "lat": -34.89563,
-        "lon": 137.77643
+        "lat": -34.86285,
+        "lon": 137.65814,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Dalrymple BESS",
@@ -1049,8 +1092,9 @@
         "label_conf": "high",
         "page_x": 174.4,
         "page_y": 428.3,
-        "lat": -35.22238,
-        "lon": 137.66144
+        "lat": -35.18983,
+        "lon": 137.50552,
+        "coord_method": "tps"
       },
       "match_score": 0.598,
       "project_site": "Wattle Point",
@@ -1073,12 +1117,13 @@
         "label_conf": "high",
         "page_x": 141.2,
         "page_y": 238.2,
-        "lat": -32.96241,
-        "lon": 137.20149
+        "lat": -32.96834,
+        "lon": 137.34754,
+        "coord_method": "tps"
       },
       "match_score": 0.8,
       "project_site": "Whyalla BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 45,
@@ -1097,8 +1142,9 @@
         "label_conf": "medium",
         "page_x": 315.6,
         "page_y": 279.4,
-        "lat": -33.45252,
-        "lon": 139.61623
+        "lat": -33.50179,
+        "lon": 139.48072,
+        "coord_method": "tps"
       },
       "match_score": 0.784,
       "project_site": "Robertstown BESS",
@@ -1121,8 +1167,9 @@
         "label_conf": "medium",
         "page_x": 323.9,
         "page_y": 279.4,
-        "lat": -33.45252,
-        "lon": 139.73122
+        "lat": -33.5237,
+        "lon": 139.58045,
+        "coord_method": "tps"
       },
       "match_score": 0.775,
       "project_site": "Robertstown BESS",
@@ -1145,8 +1192,9 @@
         "label_conf": "high",
         "page_x": 269.9,
         "page_y": 245.1,
-        "lat": -33.04409,
-        "lon": 138.9838
+        "lat": -32.99804,
+        "lon": 138.82281,
+        "coord_method": "tps"
       },
       "match_score": 0.998,
       "project_site": "Snowtown Wind Farm",
@@ -1169,8 +1217,9 @@
         "label_conf": "high",
         "page_x": 276.1,
         "page_y": 256.5,
-        "lat": -33.18024,
-        "lon": 139.07004
+        "lat": -33.13958,
+        "lon": 138.9522,
+        "coord_method": "tps"
       },
       "match_score": 0.829,
       "project_site": "Snowtown North Solar Farm - BESS",
@@ -1193,12 +1242,13 @@
         "label_conf": "medium",
         "page_x": 328.0,
         "page_y": 270.3,
-        "lat": -33.34361,
-        "lon": 139.78871
+        "lat": -33.42905,
+        "lon": 139.61277,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Tungkillo BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 50,
@@ -1218,8 +1268,9 @@
         "notes": "legend entry - position is legend not map",
         "page_x": 83.0,
         "page_y": 462.6,
-        "lat": -35.63081,
-        "lon": 136.39657
+        "lat": -35.62953,
+        "lon": 136.17584,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Barker Inlet Power Station",
@@ -1243,12 +1294,13 @@
         "notes": "legend entry",
         "page_x": 83.0,
         "page_y": 476.4,
-        "lat": -35.79418,
-        "lon": 136.39657
+        "lat": -35.7958,
+        "lon": 136.17245,
+        "coord_method": "tps"
       },
       "match_score": 0.57,
       "project_site": "Para Substation/Gould Creek BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 52,
@@ -1268,8 +1320,9 @@
         "notes": "legend entry - Pelican Point CCGT",
         "page_x": 83.0,
         "page_y": 487.8,
-        "lat": -35.93032,
-        "lon": 136.39657
+        "lat": -35.93461,
+        "lon": 136.17152,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Pelican Point",
@@ -1293,12 +1346,13 @@
         "notes": "legend entry",
         "page_x": 83.0,
         "page_y": 499.3,
-        "lat": -36.06646,
-        "lon": 136.39657
+        "lat": -36.07363,
+        "lon": 136.17199,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Tailem Bend 3 BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 54,
@@ -1318,12 +1372,13 @@
         "notes": "legend entry",
         "page_x": 83.0,
         "page_y": 508.4,
-        "lat": -36.17538,
-        "lon": 136.39657
+        "lat": -36.18497,
+        "lon": 136.1732,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Reeves Plains OCGT - stage 2",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 55,
@@ -1343,8 +1398,9 @@
         "notes": "legend entry",
         "page_x": 83.0,
         "page_y": 519.9,
-        "lat": -36.31152,
-        "lon": 136.39657
+        "lat": -36.32429,
+        "lon": 136.17556,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Dry Creek GT",
@@ -1367,12 +1423,13 @@
         "label_conf": "low",
         "page_x": 224.2,
         "page_y": 460.3,
-        "lat": -35.60358,
-        "lon": 138.35136
+        "lat": -35.5792,
+        "lon": 138.32667,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "VS1",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 57,
@@ -1391,8 +1448,9 @@
         "label_conf": "medium",
         "page_x": 390.3,
         "page_y": 613.8,
-        "lat": -37.42789,
-        "lon": 140.65112
+        "lat": -37.45283,
+        "lon": 140.82639,
+        "coord_method": "tps"
       },
       "match_score": 0.586,
       "project_site": "Snuggery",
@@ -1415,12 +1473,13 @@
         "label_conf": "high",
         "page_x": 373.7,
         "page_y": 645.9,
-        "lat": -37.80909,
-        "lon": 140.42114
+        "lat": -37.85311,
+        "lon": 140.57955,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Dry Creek BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 59,
@@ -1439,12 +1498,13 @@
         "label_conf": "high",
         "page_x": 369.6,
         "page_y": 655.0,
-        "lat": -37.918,
-        "lon": 140.36365
+        "lat": -37.9671,
+        "lon": 140.5172,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Leigh Creek Energy Project",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 60,
@@ -1463,12 +1523,13 @@
         "label_conf": "high",
         "page_x": 369.6,
         "page_y": 668.8,
-        "lat": -38.08138,
-        "lon": 140.36365
+        "lat": -38.1388,
+        "lon": 140.51451,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Penfield BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 61,
@@ -1487,12 +1548,13 @@
         "label_conf": "high",
         "page_x": 379.9,
         "page_y": 675.6,
-        "lat": -38.16306,
-        "lon": 140.50738
+        "lat": -38.22636,
+        "lon": 140.66454,
+        "coord_method": "tps"
       },
       "match_score": 0.598,
       "project_site": "Torrens Island Battery",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 62,
@@ -1511,12 +1573,13 @@
         "label_conf": "high",
         "page_x": 400.7,
         "page_y": 664.2,
-        "lat": -38.02692,
-        "lon": 140.79485
+        "lat": -38.08745,
+        "lon": 140.96776,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Reeves Plains Power Station",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 63,
@@ -1535,8 +1598,9 @@
         "label_conf": "high",
         "page_x": 411.1,
         "page_y": 664.2,
-        "lat": -38.02692,
-        "lon": 140.93859
+        "lat": -38.08981,
+        "lon": 141.11753,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Reeves Plains Power Station",
@@ -1559,8 +1623,9 @@
         "label_conf": "high",
         "page_x": 398.6,
         "page_y": 675.6,
-        "lat": -38.16306,
-        "lon": 140.7661
+        "lat": -38.23008,
+        "lon": 140.93571,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Project Monash - Storage - KCI",
@@ -1583,12 +1648,13 @@
         "label_conf": "high",
         "page_x": 91.9,
         "page_y": 38.7,
-        "lat": -34.40811,
-        "lon": 142.16568
+        "lat": -34.33893,
+        "lon": 141.96122,
+        "coord_method": "tps"
       },
       "match_score": 0.593,
       "project_site": "Lancaster Solar Farm",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 66,
@@ -1607,12 +1673,13 @@
         "label_conf": "high",
         "page_x": 113.7,
         "page_y": 46.4,
-        "lat": -34.49879,
-        "lon": 142.48008
+        "lat": -34.4312,
+        "lon": 142.30751,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Axedale Solar Farm Pty Ltd",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 67,
@@ -1631,12 +1698,13 @@
         "label_conf": "high",
         "page_x": 109.4,
         "page_y": 56.7,
-        "lat": -34.61969,
-        "lon": 142.4172
+        "lat": -34.55192,
+        "lon": 142.24731,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Koorangie Stage 2 BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 68,
@@ -1655,8 +1723,9 @@
         "label_conf": "high",
         "page_x": 137.8,
         "page_y": 77.3,
-        "lat": -34.8615,
-        "lon": 142.82592
+        "lat": -34.79511,
+        "lon": 142.71416,
+        "coord_method": "tps"
       },
       "match_score": 0.942,
       "project_site": "Wemen Solar Farm",
@@ -1679,8 +1748,9 @@
         "label_conf": "high",
         "page_x": 120.3,
         "page_y": 87.6,
-        "lat": -34.9824,
-        "lon": 142.5744
+        "lat": -34.91613,
+        "lon": 142.445,
+        "coord_method": "tps"
       },
       "match_score": 0.942,
       "project_site": "Wemen Solar Farm",
@@ -1703,8 +1773,9 @@
         "label_conf": "high",
         "page_x": 94.1,
         "page_y": 103.1,
-        "lat": -35.16375,
-        "lon": 142.19712
+        "lat": -35.09953,
+        "lon": 142.03872,
+        "coord_method": "tps"
       },
       "match_score": 0.693,
       "project_site": "Wemen Solar Farm",
@@ -1727,8 +1798,9 @@
         "label_conf": "high",
         "page_x": 91.9,
         "page_y": 116.0,
-        "lat": -35.31488,
-        "lon": 142.16568
+        "lat": -35.25287,
+        "lon": 142.01072,
+        "coord_method": "tps"
       },
       "match_score": 0.79,
       "project_site": "Wemen Solar Farm",
@@ -1751,12 +1823,13 @@
         "label_conf": "high",
         "page_x": 109.4,
         "page_y": 116.0,
-        "lat": -35.31488,
-        "lon": 142.4172
+        "lat": -35.25232,
+        "lon": 142.2898,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Kiamal BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 73,
@@ -1775,8 +1848,9 @@
         "label_conf": "medium",
         "page_x": 153.1,
         "page_y": 146.9,
-        "lat": -35.67759,
-        "lon": 143.046
+        "lat": -35.62121,
+        "lon": 143.00848,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Koorangie Energy Storage System",
@@ -1799,12 +1873,13 @@
         "label_conf": "medium",
         "page_x": 159.7,
         "page_y": 170.1,
-        "lat": -35.94962,
-        "lon": 143.14032
+        "lat": -35.90133,
+        "lon": 143.12005,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Winton 30MW Battery",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 75,
@@ -1823,12 +1898,13 @@
         "label_conf": "medium",
         "page_x": 175.0,
         "page_y": 175.3,
-        "lat": -36.01007,
-        "lon": 143.36039
+        "lat": -35.9648,
+        "lon": 143.36854,
+        "coord_method": "tps"
       },
       "match_score": 0.576,
       "project_site": "Elaine Solar Farm (48)",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 76,
@@ -1847,8 +1923,9 @@
         "label_conf": "medium",
         "page_x": 214.3,
         "page_y": 170.1,
-        "lat": -35.94962,
-        "lon": 143.92631
+        "lat": -35.90916,
+        "lon": 144.0013,
+        "coord_method": "tps"
       },
       "match_score": 0.555,
       "project_site": "Koorangie Energy Storage System",
@@ -1871,12 +1948,13 @@
         "label_conf": "high",
         "page_x": 48.1,
         "page_y": 221.7,
-        "lat": -36.55413,
-        "lon": 141.53688
+        "lat": -36.52431,
+        "lon": 141.31037,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Winchelsea Power Station",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 78,
@@ -1895,8 +1973,9 @@
         "label_conf": "high",
         "page_x": 65.6,
         "page_y": 224.3,
-        "lat": -36.58436,
-        "lon": 141.7884
+        "lat": -36.55566,
+        "lon": 141.58726,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Kiata Wind Farm",
@@ -1919,12 +1998,13 @@
         "label_conf": "high",
         "page_x": 109.4,
         "page_y": 211.4,
-        "lat": -36.43323,
-        "lon": 142.4172
+        "lat": -36.40012,
+        "lon": 142.29525,
+        "coord_method": "tps"
       },
       "match_score": 0.704,
       "project_site": "Heywood BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 80,
@@ -1943,8 +2023,9 @@
         "label_conf": "high",
         "page_x": 113.7,
         "page_y": 224.3,
-        "lat": -36.58436,
-        "lon": 142.48008
+        "lat": -36.55638,
+        "lon": 142.35844,
+        "coord_method": "tps"
       },
       "match_score": 0.738,
       "project_site": "Heywood BESS",
@@ -1967,8 +2048,9 @@
         "label_conf": "high",
         "page_x": 109.4,
         "page_y": 232.0,
-        "lat": -36.67504,
-        "lon": 142.4172
+        "lat": -36.64999,
+        "lon": 142.28272,
+        "coord_method": "tps"
       },
       "match_score": 0.667,
       "project_site": "Heywood BESS",
@@ -1991,12 +2073,13 @@
         "label_conf": "low",
         "page_x": 170.6,
         "page_y": 232.0,
-        "lat": -36.67504,
-        "lon": 143.29752
+        "lat": -36.65274,
+        "lon": 143.27264,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Wombelano Wind Farm",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 83,
@@ -2015,12 +2098,13 @@
         "label_conf": "high",
         "page_x": 113.7,
         "page_y": 250.0,
-        "lat": -36.88662,
-        "lon": 142.48008
+        "lat": -36.86864,
+        "lon": 142.33808,
+        "coord_method": "tps"
       },
       "match_score": 0.904,
       "project_site": "Horsham BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 84,
@@ -2039,12 +2123,13 @@
         "label_conf": "low",
         "page_x": 262.5,
         "page_y": 175.3,
-        "lat": -36.01007,
-        "lon": 144.61799
+        "lat": -36.00148,
+        "lon": 144.74705,
+        "coord_method": "tps"
       },
       "match_score": 0.553,
       "project_site": "Wodonga Solar Farm",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 85,
@@ -2063,8 +2148,9 @@
         "label_conf": "low",
         "page_x": 295.3,
         "page_y": 193.3,
-        "lat": -36.22165,
-        "lon": 145.08959
+        "lat": -36.24952,
+        "lon": 145.24296,
+        "coord_method": "tps"
       },
       "match_score": 0.594,
       "project_site": "Yatpool Solar Farm",
@@ -2087,8 +2173,9 @@
         "label_conf": "medium",
         "page_x": 492.1,
         "page_y": 206.2,
-        "lat": -36.37278,
-        "lon": 147.91917
+        "lat": -36.28608,
+        "lon": 147.91262,
+        "coord_method": "tps"
       },
       "match_score": 0.584,
       "project_site": "Axedale Solar Farm Pty Ltd",
@@ -2111,8 +2198,9 @@
         "label_conf": "high",
         "page_x": 76.6,
         "page_y": 360.9,
-        "lat": -38.18632,
-        "lon": 141.9456
+        "lat": -38.20144,
+        "lon": 141.62121,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Macarthur Wind Farm",
@@ -2135,8 +2223,9 @@
         "label_conf": "high",
         "page_x": 32.8,
         "page_y": 386.7,
-        "lat": -38.48858,
-        "lon": 141.3168
+        "lat": -38.50799,
+        "lon": 140.91772,
+        "coord_method": "tps"
       },
       "match_score": 0.874,
       "project_site": "Portland Wind Farm",
@@ -2159,8 +2248,9 @@
         "label_conf": "high",
         "page_x": 28.4,
         "page_y": 397.0,
-        "lat": -38.60948,
-        "lon": 141.25393
+        "lat": -38.63089,
+        "lon": 140.83897,
+        "coord_method": "tps"
       },
       "match_score": 0.598,
       "project_site": "Bald Hills Wind Farm",
@@ -2183,8 +2273,9 @@
         "label_conf": "high",
         "page_x": 37.2,
         "page_y": 417.6,
-        "lat": -38.85128,
-        "lon": 141.37968
+        "lat": -38.87698,
+        "lon": 140.94834,
+        "coord_method": "tps"
       },
       "match_score": 0.598,
       "project_site": "Oaklands Hill Wind Farm",
@@ -2207,12 +2298,13 @@
         "label_conf": "medium",
         "page_x": 109.4,
         "page_y": 360.9,
-        "lat": -38.18632,
-        "lon": 142.4172
+        "lat": -38.20169,
+        "lon": 142.12747,
+        "coord_method": "tps"
       },
       "match_score": 0.764,
       "project_site": "Tarrone BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 92,
@@ -2231,12 +2323,13 @@
         "label_conf": "high",
         "page_x": 122.5,
         "page_y": 381.5,
-        "lat": -38.42812,
-        "lon": 142.60584
+        "lat": -38.44695,
+        "lon": 142.29921,
+        "coord_method": "tps"
       },
       "match_score": 0.994,
       "project_site": "Coonawarren BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 93,
@@ -2255,8 +2348,9 @@
         "label_conf": "medium",
         "page_x": 164.0,
         "page_y": 366.0,
-        "lat": -38.24677,
-        "lon": 143.2032
+        "lat": -38.25946,
+        "lon": 142.96294,
+        "coord_method": "tps"
       },
       "match_score": 0.596,
       "project_site": "Ryan Corner Wind Farm",
@@ -2279,8 +2373,9 @@
         "label_conf": "high",
         "page_x": 367.5,
         "page_y": 386.7,
-        "lat": -38.48858,
-        "lon": 146.1271
+        "lat": -38.35509,
+        "lon": 146.09674,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Loy Yang A Power Station",
@@ -2303,8 +2398,9 @@
         "label_conf": "high",
         "page_x": 376.2,
         "page_y": 391.8,
-        "lat": -38.54903,
-        "lon": 146.25286
+        "lat": -38.4129,
+        "lon": 146.21063,
+        "coord_method": "tps"
       },
       "match_score": 0.969,
       "project_site": "Loy Yang B",
@@ -2327,8 +2423,9 @@
         "label_conf": "high",
         "page_x": 360.9,
         "page_y": 381.5,
-        "lat": -38.42812,
-        "lon": 146.03278
+        "lat": -38.29661,
+        "lon": 146.01378,
+        "coord_method": "tps"
       },
       "match_score": 0.988,
       "project_site": "Yallourn W",
@@ -2351,12 +2448,13 @@
         "label_conf": "medium",
         "page_x": 393.7,
         "page_y": 296.4,
-        "lat": -37.43068,
-        "lon": 146.50438
+        "lat": -37.21028,
+        "lon": 146.73919,
+        "coord_method": "tps"
       },
       "match_score": 0.579,
       "project_site": "Willowvale Solar Farm and BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 98,
@@ -2375,8 +2473,9 @@
         "label_conf": "medium",
         "page_x": 339.0,
         "page_y": 314.5,
-        "lat": -37.64226,
-        "lon": 145.71838
+        "lat": -37.5038,
+        "lon": 145.87014,
+        "coord_method": "tps"
       },
       "match_score": 0.666,
       "project_site": "Eildon",
@@ -2399,12 +2498,13 @@
         "label_conf": "high",
         "page_x": 306.2,
         "page_y": 386.7,
-        "lat": -38.48858,
-        "lon": 145.24679
+        "lat": -38.41589,
+        "lon": 145.15239,
+        "coord_method": "tps"
       },
       "match_score": 0.925,
       "project_site": "Melbourne Grid Battery",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 100,
@@ -2423,12 +2523,13 @@
         "label_conf": "high",
         "page_x": 306.2,
         "page_y": 378.9,
-        "lat": -38.3979,
-        "lon": 145.24679
+        "lat": -38.32291,
+        "lon": 145.17166,
+        "coord_method": "tps"
       },
       "match_score": 0.636,
       "project_site": "Newport Battery Energy Storage System",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 101,
@@ -2447,8 +2548,9 @@
         "label_conf": "high",
         "page_x": 367.5,
         "page_y": 399.6,
-        "lat": -38.6397,
-        "lon": 146.1271
+        "lat": -38.51498,
+        "lon": 146.0605,
+        "coord_method": "tps"
       },
       "match_score": 0.579,
       "project_site": "Willowvale Solar Farm and BESS",
@@ -2471,12 +2573,13 @@
         "label_conf": "medium",
         "page_x": 273.4,
         "page_y": 381.5,
-        "lat": -38.42812,
-        "lon": 144.77519
+        "lat": -38.38909,
+        "lon": 144.6391,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Moorabool BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 103,
@@ -2495,12 +2598,13 @@
         "label_conf": "high",
         "page_x": 360.9,
         "page_y": 386.7,
-        "lat": -38.48858,
-        "lon": 146.03278
+        "lat": -38.36042,
+        "lon": 145.9991,
+        "coord_method": "tps"
       },
       "match_score": 0.812,
       "project_site": "Tramway BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 104,
@@ -2519,8 +2623,9 @@
         "label_conf": "medium",
         "page_x": 463.7,
         "page_y": 342.8,
-        "lat": -37.97474,
-        "lon": 147.51045
+        "lat": -37.80045,
+        "lon": 147.50342,
+        "coord_method": "tps"
       },
       "match_score": 0.8,
       "project_site": "Bairnsdale",
@@ -2543,12 +2648,13 @@
         "label_conf": "medium",
         "page_x": 459.3,
         "page_y": 342.8,
-        "lat": -37.97474,
-        "lon": 147.44757
+        "lat": -37.79686,
+        "lon": 147.45154,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Puzzle Range BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 106,
@@ -2567,12 +2673,13 @@
         "label_conf": "low",
         "page_x": 441.8,
         "page_y": 262.9,
-        "lat": -37.03774,
-        "lon": 147.19606
+        "lat": -36.8027,
+        "lon": 147.41566,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Koorangie Stage 2 BESS",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 107,
@@ -2591,8 +2698,9 @@
         "label_conf": "high",
         "page_x": 428.9,
         "page_y": 264.1,
-        "lat": -31.26455,
-        "lon": 146.92252
+        "lat": -31.35656,
+        "lon": 147.12612,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Nyngan Solar Plant",
@@ -2615,8 +2723,9 @@
         "label_conf": "high",
         "page_x": 453.7,
         "page_y": 289.8,
-        "lat": -31.58198,
-        "lon": 147.28294
+        "lat": -31.67926,
+        "lon": 147.45776,
+        "coord_method": "tps"
       },
       "match_score": 0.598,
       "project_site": "West Wyalong Solar Farm",
@@ -2639,8 +2748,9 @@
         "label_conf": "high",
         "page_x": 506.6,
         "page_y": 319.1,
-        "lat": -31.94475,
-        "lon": 148.04883
+        "lat": -32.04572,
+        "lon": 148.18443,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Narromine Solar Farm",
@@ -2663,12 +2773,13 @@
         "label_conf": "high",
         "page_x": 519.0,
         "page_y": 319.1,
-        "lat": -31.94475,
-        "lon": 148.22903
+        "lat": -32.04594,
+        "lon": 148.35801,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Yass Solar Farm",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 111,
@@ -2687,8 +2798,9 @@
         "label_conf": "high",
         "page_x": 540.7,
         "page_y": 326.4,
-        "lat": -32.03544,
-        "lon": 148.5444
+        "lat": -32.12788,
+        "lon": 148.64751,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Narromine Solar Farm",
@@ -2711,12 +2823,13 @@
         "label_conf": "high",
         "page_x": 537.6,
         "page_y": 308.1,
-        "lat": -31.80871,
-        "lon": 148.49935
+        "lat": -31.90178,
+        "lon": 148.61294,
+        "coord_method": "tps"
       },
       "match_score": 0.591,
       "project_site": "Tamworth Solar Farm",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 113,
@@ -2735,12 +2848,13 @@
         "label_conf": "high",
         "page_x": 568.7,
         "page_y": 304.4,
-        "lat": -31.76336,
-        "lon": 148.94987
+        "lat": -31.82087,
+        "lon": 149.00899,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Vales Point Solar",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 114,
@@ -2759,12 +2873,13 @@
         "label_conf": "medium",
         "page_x": 606.0,
         "page_y": 330.1,
-        "lat": -32.08079,
-        "lon": 149.4905
+        "lat": -32.08124,
+        "lon": 149.46228,
+        "coord_method": "tps"
       },
       "match_score": 0.79,
       "project_site": "Orana Battery Energy Storage System",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 115,
@@ -2783,8 +2898,9 @@
         "label_conf": "medium",
         "page_x": 553.2,
         "page_y": 348.4,
-        "lat": -32.30753,
-        "lon": 148.72461
+        "lat": -32.37743,
+        "lon": 148.77913,
+        "coord_method": "tps"
       },
       "match_score": 0.834,
       "project_site": "Orana Battery Energy Storage System",
@@ -2807,12 +2923,13 @@
         "label_conf": "high",
         "page_x": 798.7,
         "page_y": 40.3,
-        "lat": -28.49839,
-        "lon": 152.28373
+        "lat": -28.47001,
+        "lon": 152.5455,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Narrabri Hybrid",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 117,
@@ -2831,8 +2948,9 @@
         "label_conf": "high",
         "page_x": 761.4,
         "page_y": 121.0,
-        "lat": -29.49602,
-        "lon": 151.7431
+        "lat": -29.49413,
+        "lon": 151.64728,
+        "coord_method": "tps"
       },
       "match_score": 0.849,
       "project_site": "Glen Innes BESS",
@@ -2855,12 +2973,13 @@
         "label_conf": "high",
         "page_x": 736.5,
         "page_y": 154.0,
-        "lat": -29.90414,
-        "lon": 151.38269
+        "lat": -29.9143,
+        "lon": 151.36523,
+        "coord_method": "tps"
       },
       "match_score": 0.871,
       "project_site": "White Rock Solar & Wind Farm",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 119,
@@ -2879,8 +2998,9 @@
         "label_conf": "high",
         "page_x": 752.1,
         "page_y": 154.0,
-        "lat": -29.90414,
-        "lon": 151.60795
+        "lat": -29.91723,
+        "lon": 151.63231,
+        "coord_method": "tps"
       },
       "match_score": 0.895,
       "project_site": "White Rock Solar & Wind Farm",
@@ -2903,8 +3023,9 @@
         "label_conf": "high",
         "page_x": 736.5,
         "page_y": 154.0,
-        "lat": -29.90414,
-        "lon": 151.38269
+        "lat": -29.9143,
+        "lon": 151.36523,
+        "coord_method": "tps"
       },
       "match_score": 0.625,
       "project_site": "Inverell Battery Energy Storage System",
@@ -2927,8 +3048,9 @@
         "label_conf": "high",
         "page_x": 783.1,
         "page_y": 146.7,
-        "lat": -29.81345,
-        "lon": 152.05847
+        "lat": -29.82579,
+        "lon": 152.13223,
+        "coord_method": "tps"
       },
       "match_score": 0.964,
       "project_site": "Armidale East BESS",
@@ -2951,12 +3073,13 @@
         "label_conf": "high",
         "page_x": 783.1,
         "page_y": 168.7,
-        "lat": -30.08553,
-        "lon": 152.05847
+        "lat": -30.10603,
+        "lon": 152.24825,
+        "coord_method": "tps"
       },
       "match_score": 0.85,
       "project_site": "Armidale Battery Energy Supply System",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 123,
@@ -2975,8 +3098,9 @@
         "label_conf": "high",
         "page_x": 736.5,
         "page_y": 154.0,
-        "lat": -29.90414,
-        "lon": 151.38269
+        "lat": -29.9143,
+        "lon": 151.36523,
+        "coord_method": "tps"
       },
       "match_score": 0.945,
       "project_site": "Bonshaw Solar Farm",
@@ -2999,8 +3123,9 @@
         "label_conf": "high",
         "page_x": 668.2,
         "page_y": 201.7,
-        "lat": -30.49365,
-        "lon": 150.39154
+        "lat": -30.47854,
+        "lon": 150.3768,
+        "coord_method": "tps"
       },
       "match_score": 0.588,
       "project_site": "Bullawah Wind Farm \u2013 Stage 1",
@@ -3023,12 +3148,13 @@
         "label_conf": "high",
         "page_x": 668.2,
         "page_y": 227.4,
-        "lat": -30.81108,
-        "lon": 150.39154
+        "lat": -30.77978,
+        "lon": 150.38604,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Tirranna BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 126,
@@ -3047,8 +3173,9 @@
         "label_conf": "high",
         "page_x": 689.9,
         "page_y": 249.4,
-        "lat": -31.08316,
-        "lon": 150.7069
+        "lat": -31.03139,
+        "lon": 150.73465,
+        "coord_method": "tps"
       },
       "match_score": 0.964,
       "project_site": "Gunnedah Solar Farm",
@@ -3071,12 +3198,13 @@
         "label_conf": "high",
         "page_x": 714.8,
         "page_y": 278.8,
-        "lat": -31.44594,
-        "lon": 151.06732
+        "lat": -31.38617,
+        "lon": 151.16114,
+        "coord_method": "tps"
       },
       "match_score": 0.867,
       "project_site": "Middlebrook SF & BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 128,
@@ -3095,12 +3223,13 @@
         "label_conf": "medium",
         "page_x": 721.0,
         "page_y": 300.8,
-        "lat": -31.71802,
-        "lon": 151.15743
+        "lat": -31.66096,
+        "lon": 151.26733,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Tamworth Energy Reserve",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 129,
@@ -3119,8 +3248,9 @@
         "label_conf": "high",
         "page_x": 752.1,
         "page_y": 341.1,
-        "lat": -32.21683,
-        "lon": 151.60795
+        "lat": -32.18045,
+        "lon": 151.68414,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Vales Point B",
@@ -3143,12 +3273,13 @@
         "label_conf": "high",
         "page_x": 752.1,
         "page_y": 341.1,
-        "lat": -32.21683,
-        "lon": 151.60795
+        "lat": -32.18045,
+        "lon": 151.68414,
+        "coord_method": "tps"
       },
       "match_score": 0.933,
       "project_site": "Muswellbrook PRO BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 131,
@@ -3167,12 +3298,13 @@
         "label_conf": "high",
         "page_x": 699.2,
         "page_y": 363.1,
-        "lat": -32.48891,
-        "lon": 150.84206
+        "lat": -32.49952,
+        "lon": 150.98585,
+        "coord_method": "tps"
       },
       "match_score": 0.9,
       "project_site": "Mavis Solar Farm and BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 132,
@@ -3191,12 +3323,13 @@
         "label_conf": "high",
         "page_x": 121.2,
         "page_y": 513.5,
-        "lat": -34.34813,
-        "lon": 142.46236
+        "lat": -34.32496,
+        "lon": 142.34023,
+        "coord_method": "tps"
       },
       "match_score": 0.814,
       "project_site": "Buronga BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 133,
@@ -3215,8 +3348,9 @@
         "label_conf": "high",
         "page_x": 130.5,
         "page_y": 513.5,
-        "lat": -34.34813,
-        "lon": 142.59751
+        "lat": -34.33232,
+        "lon": 142.47893,
+        "coord_method": "tps"
       },
       "match_score": 0.84,
       "project_site": "Buronga BESS",
@@ -3239,8 +3373,9 @@
         "label_conf": "high",
         "page_x": 118.1,
         "page_y": 542.8,
-        "lat": -34.71091,
-        "lon": 142.4173
+        "lat": -34.69637,
+        "lon": 142.26811,
+        "coord_method": "tps"
       },
       "match_score": 0.8,
       "project_site": "Buronga BESS",
@@ -3263,12 +3398,13 @@
         "label_conf": "high",
         "page_x": 217.5,
         "page_y": 520.8,
-        "lat": -34.43883,
-        "lon": 143.85897
+        "lat": -34.49879,
+        "lon": 143.79586,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Hay Sun Farm",
-      "project_stage_before": "Anticipated"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 136,
@@ -3287,8 +3423,9 @@
         "label_conf": "high",
         "page_x": 320.1,
         "page_y": 495.2,
-        "lat": -34.1214,
-        "lon": 145.3457
+        "lat": -34.22023,
+        "lon": 145.38829,
+        "coord_method": "tps"
       },
       "match_score": 0.864,
       "project_site": "Hillston Sun Farm",
@@ -3311,12 +3448,13 @@
         "label_conf": "high",
         "page_x": 410.2,
         "page_y": 392.5,
-        "lat": -32.85169,
-        "lon": 146.65221
+        "lat": -32.91272,
+        "lon": 146.72058,
+        "coord_method": "tps"
       },
       "match_score": 0.95,
       "project_site": "Forbes Solar Farm",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 138,
@@ -3335,8 +3473,9 @@
         "label_conf": "high",
         "page_x": 404.0,
         "page_y": 414.5,
-        "lat": -33.12377,
-        "lon": 146.5621
+        "lat": -33.18522,
+        "lon": 146.61368,
+        "coord_method": "tps"
       },
       "match_score": 0.794,
       "project_site": "Parkes Solar Farm",
@@ -3359,8 +3498,9 @@
         "label_conf": "high",
         "page_x": 425.8,
         "page_y": 421.8,
-        "lat": -33.21446,
-        "lon": 146.87747
+        "lat": -33.26465,
+        "lon": 146.9055,
+        "coord_method": "tps"
       },
       "match_score": 0.614,
       "project_site": "Manildra Solar Farm",
@@ -3383,8 +3523,9 @@
         "label_conf": "medium",
         "page_x": 503.5,
         "page_y": 476.8,
-        "lat": -33.89466,
-        "lon": 148.00377
+        "lat": -33.91919,
+        "lon": 147.91293,
+        "coord_method": "tps"
       },
       "match_score": 0.71,
       "project_site": "Crookwell 2 Wind Farm",
@@ -3407,12 +3548,13 @@
         "label_conf": "high",
         "page_x": 503.5,
         "page_y": 542.8,
-        "lat": -34.71091,
-        "lon": 148.00377
+        "lat": -34.75041,
+        "lon": 148.04661,
+        "coord_method": "tps"
       },
       "match_score": 0.759,
       "project_site": "Coppabella Wind Farm",
-      "project_stage_before": "Anticipated"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 142,
@@ -3431,8 +3573,9 @@
         "label_conf": "high",
         "page_x": 559.4,
         "page_y": 557.5,
-        "lat": -34.89229,
-        "lon": 148.81471
+        "lat": -34.76176,
+        "lon": 148.96311,
+        "coord_method": "tps"
       },
       "match_score": 0.999,
       "project_site": "Capital Wind Farm",
@@ -3455,8 +3598,9 @@
         "label_conf": "high",
         "page_x": 506.6,
         "page_y": 557.5,
-        "lat": -34.89229,
-        "lon": 148.04883
+        "lat": -34.90795,
+        "lon": 148.13077,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Tumut 3",
@@ -3479,12 +3623,13 @@
         "label_conf": "high",
         "page_x": 481.7,
         "page_y": 594.2,
-        "lat": -35.34576,
-        "lon": 147.68841
+        "lat": -35.36833,
+        "lon": 147.8182,
+        "coord_method": "tps"
       },
       "match_score": 0.55,
       "project_site": "Hanworth BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 145,
@@ -3503,8 +3648,9 @@
         "label_conf": "high",
         "page_x": 503.5,
         "page_y": 616.2,
-        "lat": -35.61784,
-        "lon": 148.00377
+        "lat": -35.57508,
+        "lon": 147.97614,
+        "coord_method": "tps"
       },
       "match_score": 0.945,
       "project_site": "Snowy 2.0.",
@@ -3527,12 +3673,13 @@
         "label_conf": "medium",
         "page_x": 574.9,
         "page_y": 641.9,
-        "lat": -35.93527,
-        "lon": 149.03997
+        "lat": -35.82706,
+        "lon": 148.88452,
+        "coord_method": "tps"
       },
       "match_score": 0.591,
       "project_site": "Merriwa Energy Hub",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 147,
@@ -3551,8 +3698,9 @@
         "label_conf": "high",
         "page_x": 814.2,
         "page_y": 381.5,
-        "lat": -32.71565,
-        "lon": 152.50899
+        "lat": -32.70935,
+        "lon": 152.1939,
+        "coord_method": "tps"
       },
       "match_score": 0.983,
       "project_site": "Bayswater",
@@ -3575,8 +3723,9 @@
         "label_conf": "high",
         "page_x": 776.9,
         "page_y": 432.8,
-        "lat": -33.3505,
-        "lon": 151.96837
+        "lat": -33.47501,
+        "lon": 151.76066,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Eraring",
@@ -3599,8 +3748,9 @@
         "label_conf": "high",
         "page_x": 776.9,
         "page_y": 454.8,
-        "lat": -33.62258,
-        "lon": 151.96837
+        "lat": -33.79826,
+        "lon": 151.75274,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Vales Point B",
@@ -3623,8 +3773,9 @@
         "label_conf": "high",
         "page_x": 661.9,
         "page_y": 432.8,
-        "lat": -33.3505,
-        "lon": 150.30143
+        "lat": -33.4689,
+        "lon": 150.35915,
+        "coord_method": "tps"
       },
       "match_score": 0.796,
       "project_site": "Mt Piper",
@@ -3647,12 +3798,13 @@
         "label_conf": "high",
         "page_x": 776.9,
         "page_y": 432.8,
-        "lat": -33.3505,
-        "lon": 151.96837
+        "lat": -33.47501,
+        "lon": 151.76066,
+        "coord_method": "tps"
       },
       "match_score": 0.966,
       "project_site": "Eraring BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 152,
@@ -3671,12 +3823,13 @@
         "label_conf": "high",
         "page_x": 814.2,
         "page_y": 381.5,
-        "lat": -32.71565,
-        "lon": 152.50899
+        "lat": -32.70935,
+        "lon": 152.1939,
+        "coord_method": "tps"
       },
       "match_score": 0.753,
       "project_site": "Liddell Battery",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 153,
@@ -3695,12 +3848,13 @@
         "label_conf": "medium",
         "page_x": 730.3,
         "page_y": 542.8,
-        "lat": -34.71091,
-        "lon": 151.29258
+        "lat": -34.89725,
+        "lon": 151.17261,
+        "coord_method": "tps"
       },
       "match_score": 0.595,
       "project_site": "Port Kembla Power Station",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 154,
@@ -3719,8 +3873,9 @@
         "label_conf": "medium",
         "page_x": 761.4,
         "page_y": 421.8,
-        "lat": -33.21446,
-        "lon": 151.7431
+        "lat": -33.32832,
+        "lon": 151.62727,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Port Kembla Power Station",
@@ -3743,12 +3898,13 @@
         "label_conf": "medium",
         "page_x": 668.2,
         "page_y": 561.2,
-        "lat": -34.93764,
-        "lon": 150.39154
+        "lat": -34.98811,
+        "lon": 150.40554,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Yanco Battery Energy Storage System",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 156,
@@ -3767,8 +3923,9 @@
         "label_conf": "medium",
         "page_x": 668.2,
         "page_y": 579.5,
-        "lat": -35.16438,
-        "lon": 150.39154
+        "lat": -35.19337,
+        "lon": 150.36994,
+        "coord_method": "tps"
       },
       "match_score": 0.587,
       "project_site": "Armidale East BESS",
@@ -3791,8 +3948,9 @@
         "label_conf": "high",
         "page_x": 246.8,
         "page_y": 277.0,
-        "lat": -19.10366,
-        "lon": 143.83391
+        "lat": -19.26548,
+        "lon": 143.50594,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Kidston Solar Project Phase One 50MW",
@@ -3815,8 +3973,9 @@
         "label_conf": "high",
         "page_x": 253.1,
         "page_y": 294.8,
-        "lat": -19.33904,
-        "lon": 143.9265
+        "lat": -19.4858,
+        "lon": 143.65626,
+        "coord_method": "tps"
       },
       "match_score": 0.986,
       "project_site": "Kidston Pumped Storage Hydro Project 250MW",
@@ -3839,12 +3998,38 @@
         "label_conf": "high",
         "page_x": 303.8,
         "page_y": 56.8,
-        "lat": -16.18493,
-        "lon": 144.66721
+        "lat": -16.01883,
+        "lon": 144.9609,
+        "coord_method": "tps"
       },
       "match_score": 0.644,
       "project_site": "Lakeland Wind Farm",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
+    },
+    {
+      "marker_idx": 160,
+      "marker": {
+        "state": "QLD",
+        "tile": "qld_r0c1",
+        "fuel": "Battery",
+        "stage": "Operational",
+        "capacity_mw": 13,
+        "nearest_label": "Cooktown",
+        "x_pct": 3,
+        "y_pct": 11,
+        "fuel_conf": "medium",
+        "stage_conf": "medium",
+        "capacity_conf": "high",
+        "label_conf": "medium",
+        "page_x": 325.9,
+        "page_y": 39.1,
+        "lat": -15.76981,
+        "lon": 145.12626,
+        "coord_method": "tps"
+      },
+      "match_score": 1.0,
+      "project_site": "Cooktown Battery (13 MW)",
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 161,
@@ -3863,8 +4048,9 @@
         "label_conf": "high",
         "page_x": 420.8,
         "page_y": 78.1,
-        "lat": -16.46739,
-        "lon": 146.38011
+        "lat": -16.39542,
+        "lon": 146.02749,
+        "coord_method": "tps"
       },
       "match_score": 0.591,
       "project_site": "Rugby Run Solar Farm",
@@ -3887,12 +4073,13 @@
         "label_conf": "high",
         "page_x": 395.5,
         "page_y": 106.5,
-        "lat": -16.844,
-        "lon": 146.00975
+        "lat": -16.77347,
+        "lon": 145.86687,
+        "coord_method": "tps"
       },
       "match_score": 0.581,
       "project_site": "Blair Athol Solar Power Station",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 163,
@@ -3911,12 +4098,13 @@
         "label_conf": "high",
         "page_x": 386.0,
         "page_y": 117.2,
-        "lat": -16.98523,
-        "lon": 145.87087
+        "lat": -16.90687,
+        "lon": 145.79629,
+        "coord_method": "tps"
       },
       "match_score": 0.59,
       "project_site": "Hopeland Battery Energy Storage System",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 164,
@@ -3935,12 +4123,13 @@
         "label_conf": "high",
         "page_x": 354.4,
         "page_y": 166.9,
-        "lat": -17.64429,
-        "lon": 145.40793
+        "lat": -17.51713,
+        "lon": 145.4201,
+        "coord_method": "tps"
       },
       "match_score": 0.704,
       "project_site": "Mt Fox Energy Park BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 165,
@@ -3959,8 +4148,9 @@
         "label_conf": "high",
         "page_x": 370.2,
         "page_y": 170.5,
-        "lat": -17.69137,
-        "lon": 145.6394
+        "lat": -17.53951,
+        "lon": 145.59339,
+        "coord_method": "tps"
       },
       "match_score": 0.979,
       "project_site": "Mt Fox Energy Park BESS",
@@ -3983,12 +4173,13 @@
         "label_conf": "high",
         "page_x": 386.0,
         "page_y": 195.3,
-        "lat": -18.0209,
-        "lon": 145.87087
+        "lat": -17.91484,
+        "lon": 145.81604,
+        "coord_method": "tps"
       },
       "match_score": 0.57,
       "project_site": "Western Downs Battery Connection",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 167,
@@ -4007,12 +4198,13 @@
         "label_conf": "high",
         "page_x": 360.7,
         "page_y": 238.0,
-        "lat": -18.58582,
-        "lon": 145.50051
+        "lat": -18.54445,
+        "lon": 145.84393,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "X-Elio Halys BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 168,
@@ -4031,8 +4223,9 @@
         "label_conf": "high",
         "page_x": 436.7,
         "page_y": 234.4,
-        "lat": -18.53874,
-        "lon": 146.61158
+        "lat": -18.65957,
+        "lon": 146.31892,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Tableland Mill",
@@ -4055,12 +4248,13 @@
         "label_conf": "medium",
         "page_x": 357.6,
         "page_y": 266.4,
-        "lat": -18.96243,
-        "lon": 145.45422
+        "lat": -18.94603,
+        "lon": 145.80332,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Tyrone Solar Farm",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 170,
@@ -4079,12 +4273,13 @@
         "label_conf": "high",
         "page_x": 433.5,
         "page_y": 277.0,
-        "lat": -19.10366,
-        "lon": 146.56529
+        "lat": -19.20221,
+        "lon": 146.43157,
+        "coord_method": "tps"
       },
       "match_score": 0.894,
       "project_site": "ACE - Yabulu BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 171,
@@ -4103,12 +4298,13 @@
         "label_conf": "high",
         "page_x": 474.6,
         "page_y": 301.9,
-        "lat": -19.43319,
-        "lon": 147.16712
+        "lat": -19.45412,
+        "lon": 146.9599,
+        "coord_method": "tps"
       },
       "match_score": 0.739,
       "project_site": "Supernode North 3",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 172,
@@ -4127,12 +4323,13 @@
         "label_conf": "high",
         "page_x": 490.5,
         "page_y": 312.5,
-        "lat": -19.57442,
-        "lon": 147.39859
+        "lat": -19.59329,
+        "lon": 147.19681,
+        "coord_method": "tps"
       },
       "match_score": 0.98,
       "project_site": "Pinnacles BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 173,
@@ -4151,8 +4348,9 @@
         "label_conf": "high",
         "page_x": 436.7,
         "page_y": 312.5,
-        "lat": -19.57442,
-        "lon": 146.61158
+        "lat": -19.46101,
+        "lon": 146.57797,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Western Downs Battery Connection",
@@ -4175,8 +4373,9 @@
         "label_conf": "medium",
         "page_x": 499.9,
         "page_y": 330.3,
-        "lat": -19.8098,
-        "lon": 147.53747
+        "lat": -19.7975,
+        "lon": 147.42574,
+        "coord_method": "tps"
       },
       "match_score": 0.55,
       "project_site": "Lakeland Wind Farm",
@@ -4199,12 +4398,13 @@
         "label_conf": "high",
         "page_x": 490.5,
         "page_y": 344.5,
-        "lat": -19.9981,
-        "lon": 147.39859
+        "lat": -19.94258,
+        "lon": 147.39643,
+        "coord_method": "tps"
       },
       "match_score": 0.82,
       "project_site": "Burdekin Solar Farm",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 176,
@@ -4223,8 +4423,9 @@
         "label_conf": "high",
         "page_x": 474.6,
         "page_y": 344.5,
-        "lat": -19.9981,
-        "lon": 147.16712
+        "lat": -19.91014,
+        "lon": 147.17566,
+        "coord_method": "tps"
       },
       "match_score": 0.943,
       "project_site": "Clare Solar Farm",
@@ -4247,12 +4448,13 @@
         "label_conf": "high",
         "page_x": 417.7,
         "page_y": 348.1,
-        "lat": -20.04518,
-        "lon": 146.33382
+        "lat": -19.97123,
+        "lon": 146.26317,
+        "coord_method": "tps"
       },
       "match_score": 0.8,
       "project_site": "Bowen PHES",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 178,
@@ -4271,8 +4473,9 @@
         "label_conf": "high",
         "page_x": 269.0,
         "page_y": 419.1,
-        "lat": -20.9867,
-        "lon": 144.15798
+        "lat": -21.0539,
+        "lon": 144.22298,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Hughenden Sun Farm",
@@ -4295,12 +4498,13 @@
         "label_conf": "high",
         "page_x": 269.0,
         "page_y": 433.3,
-        "lat": -21.17501,
-        "lon": 144.15798
+        "lat": -21.24483,
+        "lon": 144.23467,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Bouldercombe Battery Project - Stage 2",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 180,
@@ -4319,8 +4523,9 @@
         "label_conf": "high",
         "page_x": 278.5,
         "page_y": 433.3,
-        "lat": -21.17501,
-        "lon": 144.29686
+        "lat": -21.24101,
+        "lon": 144.38337,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Bouldercombe Battery Project - Stage 2",
@@ -4343,8 +4548,9 @@
         "label_conf": "high",
         "page_x": 265.8,
         "page_y": 646.4,
-        "lat": -23.99958,
-        "lon": 144.11168
+        "lat": -24.08153,
+        "lon": 144.06783,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Longreach Solar Farm",
@@ -4367,12 +4573,13 @@
         "label_conf": "medium",
         "page_x": 417.7,
         "page_y": 369.4,
-        "lat": -20.32764,
-        "lon": 146.33382
+        "lat": -20.28622,
+        "lon": 146.29988,
+        "coord_method": "tps"
       },
       "match_score": 0.707,
       "project_site": "Brampton Solar Farm",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 183,
@@ -4391,12 +4598,13 @@
         "label_conf": "medium",
         "page_x": 427.2,
         "page_y": 390.7,
-        "lat": -20.61009,
-        "lon": 146.4727
+        "lat": -20.59013,
+        "lon": 146.57681,
+        "coord_method": "tps"
       },
       "match_score": 0.675,
       "project_site": "Collinsville Coal Fired Power Station Project",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 184,
@@ -4415,12 +4623,13 @@
         "label_conf": "medium",
         "page_x": 468.3,
         "page_y": 461.7,
-        "lat": -21.55162,
-        "lon": 147.07453
+        "lat": -21.63707,
+        "lon": 147.4955,
+        "coord_method": "tps"
       },
       "match_score": 0.893,
       "project_site": "Moranbah Power Project",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 185,
@@ -4439,8 +4648,9 @@
         "label_conf": "medium",
         "page_x": 537.9,
         "page_y": 593.1,
-        "lat": -23.29344,
-        "lon": 148.09301
+        "lat": -23.34503,
+        "lon": 148.38087,
+        "coord_method": "tps"
       },
       "match_score": 0.707,
       "project_site": "Lilyvale Solar Farm",
@@ -4463,8 +4673,9 @@
         "label_conf": "medium",
         "page_x": 474.6,
         "page_y": 610.9,
-        "lat": -23.52882,
-        "lon": 147.16712
+        "lat": -23.57783,
+        "lon": 147.17848,
+        "coord_method": "tps"
       },
       "match_score": 0.867,
       "project_site": "Clermont Solar Farm",
@@ -4487,8 +4698,9 @@
         "label_conf": "medium",
         "page_x": 563.2,
         "page_y": 575.4,
-        "lat": -23.05806,
-        "lon": 148.46336
+        "lat": -23.12026,
+        "lon": 148.67169,
+        "coord_method": "tps"
       },
       "match_score": 0.661,
       "project_site": "Bundaberg Renewable Energy Park",
@@ -4511,12 +4723,13 @@
         "label_conf": "medium",
         "page_x": 569.6,
         "page_y": 646.4,
-        "lat": -23.99958,
-        "lon": 148.55595
+        "lat": -24.12945,
+        "lon": 148.77717,
+        "coord_method": "tps"
       },
       "match_score": 0.993,
       "project_site": "Blackwater Solar Farm and BESS",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 189,
@@ -4535,12 +4748,13 @@
         "label_conf": "medium",
         "page_x": 617.0,
         "page_y": 525.6,
-        "lat": -22.39899,
-        "lon": 149.25037
+        "lat": -22.42412,
+        "lon": 149.11861,
+        "coord_method": "tps"
       },
       "match_score": 0.725,
       "project_site": "Boomer Green Energy Hub",
-      "project_stage_before": "Application"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 190,
@@ -4559,12 +4773,13 @@
         "label_conf": "medium",
         "page_x": 642.3,
         "page_y": 504.3,
-        "lat": -22.11653,
-        "lon": 149.62072
+        "lat": -22.14035,
+        "lon": 149.40417,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Pacific Hydro - Bunkers Hill Pumped Hydro",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 191,
@@ -4583,8 +4798,9 @@
         "label_conf": "high",
         "page_x": 677.1,
         "page_y": 539.8,
-        "lat": -22.5873,
-        "lon": 150.12996
+        "lat": -22.64287,
+        "lon": 149.94447,
+        "coord_method": "tps"
       },
       "match_score": 0.969,
       "project_site": "Stanwell",
@@ -4607,8 +4823,9 @@
         "label_conf": "high",
         "page_x": 784.7,
         "page_y": 593.1,
-        "lat": -23.29344,
-        "lon": 151.70397
+        "lat": -23.36273,
+        "lon": 151.03006,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Gladstone",
@@ -4631,8 +4848,9 @@
         "label_conf": "high",
         "page_x": 727.8,
         "page_y": 685.5,
-        "lat": -24.51742,
-        "lon": 150.87067
+        "lat": -24.54686,
+        "lon": 150.73066,
+        "coord_method": "tps"
       },
       "match_score": 0.583,
       "project_site": "Gladstone",
@@ -4655,8 +4873,9 @@
         "label_conf": "high",
         "page_x": 781.6,
         "page_y": 575.4,
-        "lat": -23.05806,
-        "lon": 151.65768
+        "lat": -23.14288,
+        "lon": 150.90831,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Yarwun 1",
@@ -4679,8 +4898,9 @@
         "label_conf": "high",
         "page_x": 677.1,
         "page_y": 685.5,
-        "lat": -24.51742,
-        "lon": 150.12996
+        "lat": -24.58365,
+        "lon": 149.85361,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Roma",
@@ -4703,12 +4923,13 @@
         "label_conf": "high",
         "page_x": 784.7,
         "page_y": 628.6,
-        "lat": -23.7642,
-        "lon": 151.70397
+        "lat": -23.78997,
+        "lon": 151.26591,
+        "coord_method": "tps"
       },
       "match_score": 0.6,
       "project_site": "Tummaville Hybrid Facility",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 197,
@@ -4727,12 +4948,13 @@
         "label_conf": "high",
         "page_x": 715.1,
         "page_y": 639.3,
-        "lat": -23.90543,
-        "lon": 150.6855
+        "lat": -23.9044,
+        "lon": 150.8319,
+        "coord_method": "tps"
       },
       "match_score": 0.871,
       "project_site": "Smoky Creek Energy Storage System",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 198,
@@ -4751,8 +4973,9 @@
         "label_conf": "high",
         "page_x": 721.4,
         "page_y": 660.6,
-        "lat": -24.18789,
-        "lon": 150.77809
+        "lat": -24.19818,
+        "lon": 150.72262,
+        "coord_method": "tps"
       },
       "match_score": 0.95,
       "project_site": "Theodore BESS",
@@ -4775,12 +4998,13 @@
         "label_conf": "medium",
         "page_x": 765.7,
         "page_y": 621.5,
-        "lat": -23.67005,
-        "lon": 151.42621
+        "lat": -23.68744,
+        "lon": 151.08794,
+        "coord_method": "tps"
       },
       "match_score": 0.786,
       "project_site": "Mount Larcom (Site A) Solar Farm",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 200,
@@ -4799,12 +5023,13 @@
         "label_conf": "high",
         "page_x": 829.0,
         "page_y": 703.2,
-        "lat": -24.7528,
-        "lon": 152.3521
+        "lat": -24.69522,
+        "lon": 152.25634,
+        "coord_method": "tps"
       },
       "match_score": 0.882,
       "project_site": "Bundaberg Solar Farm",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 201,
@@ -4823,12 +5048,13 @@
         "label_conf": "high",
         "page_x": 579.1,
         "page_y": 852.4,
-        "lat": -26.73,
-        "lon": 148.69483
+        "lat": -26.7981,
+        "lon": 148.67811,
+        "coord_method": "tps"
       },
       "match_score": 0.88,
       "project_site": "Pleasant Hills Solar Farm",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 202,
@@ -4847,8 +5073,9 @@
         "label_conf": "high",
         "page_x": 569.6,
         "page_y": 859.5,
-        "lat": -26.82415,
-        "lon": 148.55595
+        "lat": -26.89142,
+        "lon": 148.49318,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Roma",
@@ -4871,8 +5098,9 @@
         "label_conf": "high",
         "page_x": 743.6,
         "page_y": 887.9,
-        "lat": -27.20076,
-        "lon": 151.10215
+        "lat": -27.13686,
+        "lon": 151.23632,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Tarong",
@@ -4895,8 +5123,9 @@
         "label_conf": "high",
         "page_x": 749.9,
         "page_y": 880.8,
-        "lat": -27.10661,
-        "lon": 151.19474
+        "lat": -27.06667,
+        "lon": 151.30596,
+        "coord_method": "tps"
       },
       "match_score": 0.991,
       "project_site": "Tarong North",
@@ -4919,8 +5148,9 @@
         "label_conf": "high",
         "page_x": 711.9,
         "page_y": 994.4,
-        "lat": -28.61305,
-        "lon": 150.6392
+        "lat": -28.57339,
+        "lon": 150.94506,
+        "coord_method": "tps"
       },
       "match_score": 0.999,
       "project_site": "Millmerran Power Plant",
@@ -4943,8 +5173,9 @@
         "label_conf": "high",
         "page_x": 727.8,
         "page_y": 976.7,
-        "lat": -28.37767,
-        "lon": 150.87067
+        "lat": -28.3199,
+        "lon": 151.16327,
+        "coord_method": "tps"
       },
       "match_score": 0.995,
       "project_site": "Kogan Creek",
@@ -4967,8 +5198,9 @@
         "label_conf": "high",
         "page_x": 791.1,
         "page_y": 905.6,
-        "lat": -27.43615,
-        "lon": 151.79656
+        "lat": -27.38606,
+        "lon": 152.03887,
+        "coord_method": "tps"
       },
       "match_score": 0.926,
       "project_site": "Wivenhoe",
@@ -4991,8 +5223,9 @@
         "label_conf": "high",
         "page_x": 791.1,
         "page_y": 916.3,
-        "lat": -27.57737,
-        "lon": 151.79656
+        "lat": -27.51174,
+        "lon": 152.05612,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Swanbank E GT",
@@ -5015,8 +5248,9 @@
         "label_conf": "high",
         "page_x": 759.4,
         "page_y": 930.5,
-        "lat": -27.76568,
-        "lon": 151.33362
+        "lat": -27.65048,
+        "lon": 151.55793,
+        "coord_method": "tps"
       },
       "match_score": 0.917,
       "project_site": "Braemar",
@@ -5039,8 +5273,9 @@
         "label_conf": "medium",
         "page_x": 727.8,
         "page_y": 923.4,
-        "lat": -27.67153,
-        "lon": 150.87067
+        "lat": -27.57779,
+        "lon": 151.09841,
+        "coord_method": "tps"
       },
       "match_score": 1.0,
       "project_site": "Coopers Gap Wind Farm",
@@ -5063,12 +5298,13 @@
         "label_conf": "medium",
         "page_x": 759.4,
         "page_y": 951.8,
-        "lat": -28.04814,
-        "lon": 151.33362
+        "lat": -27.93925,
+        "lon": 151.58177,
+        "coord_method": "tps"
       },
       "match_score": 0.981,
       "project_site": "Ulinda Park BESS",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Existing"
     },
     {
       "marker_idx": 212,
@@ -5087,8 +5323,9 @@
         "label_conf": "medium",
         "page_x": 775.2,
         "page_y": 951.8,
-        "lat": -28.04814,
-        "lon": 151.56509
+        "lat": -27.93905,
+        "lon": 151.81978,
+        "coord_method": "tps"
       },
       "match_score": 0.598,
       "project_site": "Clare Solar Farm",
@@ -5111,22 +5348,23 @@
         "label_conf": "medium",
         "page_x": 702.5,
         "page_y": 1001.5,
-        "lat": -28.7072,
-        "lon": 150.50032
+        "lat": -28.67432,
+        "lon": 150.80785,
+        "coord_method": "tps"
       },
       "match_score": 0.86,
       "project_site": "Bulli Creek Solar Farm B",
-      "project_stage_before": "Enquiry"
+      "project_stage_before": "Existing"
     }
   ],
-  "unmatched_count": 1,
-  "matched_count": 213,
-  "new_pseudo_projects": 1,
+  "unmatched_count": 0,
+  "matched_count": 214,
+  "new_pseudo_projects": 0,
   "summary_by_state": {
     "TAS": 34,
     "SA": 31,
     "VIC": 42,
     "NSW": 50,
-    "QLD": 56
+    "QLD": 57
   }
 }
