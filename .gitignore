@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.firecrawl/
+.claude/
+
+# Intermediate data is reproducible from inputs + scripts
+data/intermediate/vision_pngs/
+data/intermediate/vision_tiles/
+
+# Optional: comment out if you want generated outputs tracked
+# outputs/nem_map.html
+# outputs/assets/
+
+# Optional: keep cache for fast reruns
+# data/intermediate/geocode_cache.json
