@@ -71,7 +71,7 @@
         "page_h": 2383.0,
         "matched_site": "Yabulu South BESS",
         "matched_region": "QLD1",
-        "matched_stage": "Application",
+        "matched_stage": "Committed",
         "match_type": "core"
       },
       {
@@ -131,7 +131,7 @@
         "page_h": 2383.0,
         "matched_site": "Stony Creek Wind Farm",
         "matched_region": "QLD1",
-        "matched_stage": "Application",
+        "matched_stage": "Committed",
         "match_type": "core"
       },
       {
@@ -251,7 +251,7 @@
         "page_h": 2383.0,
         "matched_site": "Western Downs Battery Project",
         "matched_region": "QLD1",
-        "matched_stage": "Enquiry",
+        "matched_stage": "Application",
         "match_type": "core"
       },
       {
@@ -299,7 +299,7 @@
         "page_h": 2383.0,
         "matched_site": "Glen Innes BESS",
         "matched_region": "NSW1",
-        "matched_stage": "Enquiry",
+        "matched_stage": "Application",
         "match_type": "core"
       },
       {
@@ -335,7 +335,7 @@
         "page_h": 2383.0,
         "matched_site": "Port Pirie",
         "matched_region": "SA1",
-        "matched_stage": "Enquiry",
+        "matched_stage": "Application",
         "match_type": "exact"
       },
       {
@@ -419,7 +419,7 @@
         "page_h": 2383.0,
         "matched_site": "Mugga Lane BESS",
         "matched_region": "NSW1",
-        "matched_stage": "Application",
+        "matched_stage": "Committed",
         "match_type": "core"
       },
       {
@@ -431,7 +431,7 @@
         "page_h": 2383.0,
         "matched_site": "Tailem Bend",
         "matched_region": "SA1",
-        "matched_stage": "Enquiry",
+        "matched_stage": "Application",
         "match_type": "exact"
       },
       {
@@ -719,7 +719,7 @@
         "page_h": 2383.0,
         "matched_site": "Port Latta Wind Farm",
         "matched_region": "TAS1",
-        "matched_stage": "Anticipated",
+        "matched_stage": "Committed",
         "match_type": "core"
       },
       {
@@ -982,7 +982,7 @@
         "page_h": 733.559,
         "matched_site": "Glen Innes BESS",
         "matched_region": "NSW1",
-        "matched_stage": "Enquiry",
+        "matched_stage": "Application",
         "match_type": "core"
       }
     ],
@@ -1021,7 +1021,7 @@
         "page_h": 1065.47,
         "matched_site": "Yabulu South BESS",
         "matched_region": "QLD1",
-        "matched_stage": "Application",
+        "matched_stage": "Committed",
         "match_type": "core"
       },
       {
@@ -1033,7 +1033,7 @@
         "page_h": 1065.47,
         "matched_site": "Stony Creek Wind Farm",
         "matched_region": "QLD1",
-        "matched_stage": "Application",
+        "matched_stage": "Committed",
         "match_type": "core"
       },
       {
@@ -1100,7 +1100,7 @@
         "page_h": 687.088,
         "matched_site": "Port Pirie",
         "matched_region": "SA1",
-        "matched_stage": "Enquiry",
+        "matched_stage": "Application",
         "match_type": "exact"
       }
     ],
@@ -1151,7 +1151,7 @@
         "page_h": 321.065,
         "matched_site": "Port Latta Wind Farm",
         "matched_region": "TAS1",
-        "matched_stage": "Anticipated",
+        "matched_stage": "Committed",
         "match_type": "core"
       }
     ],

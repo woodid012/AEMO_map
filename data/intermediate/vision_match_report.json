@@ -94,7 +94,7 @@
       },
       "match_score": 0.6,
       "project_site": "LST02 Data Hall",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 4,
@@ -142,7 +142,7 @@
       },
       "match_score": 0.574,
       "project_site": "George Town Battery System",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 6,
@@ -190,7 +190,7 @@
       },
       "match_score": 0.6,
       "project_site": "Palmerston Battery Energy Storage System - Akaysha",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 8,
@@ -430,7 +430,7 @@
       },
       "match_score": 0.757,
       "project_site": "George Town BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 18,
@@ -478,7 +478,7 @@
       },
       "match_score": 0.884,
       "project_site": "Palmerston Big Battery",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 20,
@@ -550,7 +550,7 @@
       },
       "match_score": 0.581,
       "project_site": "Cellars Hill BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 23,
@@ -694,7 +694,7 @@
       },
       "match_score": 0.6,
       "project_site": "LST02 Data Hall",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 29,
@@ -838,7 +838,7 @@
       },
       "match_score": 0.72,
       "project_site": "Davenport BESS Project",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 35,
@@ -862,7 +862,7 @@
       },
       "match_score": 1.0,
       "project_site": "VS1",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 36,
@@ -886,7 +886,7 @@
       },
       "match_score": 1.0,
       "project_site": "Davenport BESS Project",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 37,
@@ -910,7 +910,7 @@
       },
       "match_score": 0.622,
       "project_site": "Davenport BESS Project",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 38,
@@ -934,7 +934,7 @@
       },
       "match_score": 0.871,
       "project_site": "Davenport BESS Project",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 39,
@@ -1078,7 +1078,7 @@
       },
       "match_score": 0.8,
       "project_site": "Whyalla BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 45,
@@ -1198,7 +1198,7 @@
       },
       "match_score": 0.6,
       "project_site": "Tungkillo BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 50,
@@ -1248,7 +1248,7 @@
       },
       "match_score": 0.57,
       "project_site": "Para Substation/Gould Creek BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 52,
@@ -1298,7 +1298,7 @@
       },
       "match_score": 0.6,
       "project_site": "Tailem Bend 3 BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 54,
@@ -1323,7 +1323,7 @@
       },
       "match_score": 0.6,
       "project_site": "Reeves Plains OCGT - stage 2",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 55,
@@ -1372,7 +1372,7 @@
       },
       "match_score": 0.6,
       "project_site": "VS1",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 57,
@@ -1420,7 +1420,7 @@
       },
       "match_score": 0.6,
       "project_site": "Dry Creek BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 59,
@@ -1444,7 +1444,7 @@
       },
       "match_score": 0.6,
       "project_site": "Leigh Creek Energy Project",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 60,
@@ -1468,7 +1468,7 @@
       },
       "match_score": 0.6,
       "project_site": "Penfield BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 61,
@@ -1492,7 +1492,7 @@
       },
       "match_score": 0.598,
       "project_site": "Torrens Island Battery",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 62,
@@ -1516,7 +1516,7 @@
       },
       "match_score": 0.6,
       "project_site": "Reeves Plains Power Station",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 63,
@@ -1588,7 +1588,7 @@
       },
       "match_score": 0.593,
       "project_site": "Lancaster Solar Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 66,
@@ -1612,7 +1612,7 @@
       },
       "match_score": 0.6,
       "project_site": "Axedale Solar Farm Pty Ltd",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 67,
@@ -1636,7 +1636,7 @@
       },
       "match_score": 0.6,
       "project_site": "Koorangie Stage 2 BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 68,
@@ -1756,7 +1756,7 @@
       },
       "match_score": 0.6,
       "project_site": "Kiamal BESS",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 73,
@@ -1804,7 +1804,7 @@
       },
       "match_score": 0.6,
       "project_site": "Winton 30MW Battery",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 75,
@@ -1828,7 +1828,7 @@
       },
       "match_score": 0.576,
       "project_site": "Elaine Solar Farm (48)",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 76,
@@ -1876,7 +1876,7 @@
       },
       "match_score": 0.6,
       "project_site": "Winchelsea Power Station",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 78,
@@ -1924,7 +1924,7 @@
       },
       "match_score": 0.704,
       "project_site": "Heywood BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 80,
@@ -1996,7 +1996,7 @@
       },
       "match_score": 0.6,
       "project_site": "Wombelano Wind Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 83,
@@ -2020,7 +2020,7 @@
       },
       "match_score": 0.904,
       "project_site": "Horsham BESS",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 84,
@@ -2044,7 +2044,7 @@
       },
       "match_score": 0.553,
       "project_site": "Wodonga Solar Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 85,
@@ -2212,7 +2212,7 @@
       },
       "match_score": 0.764,
       "project_site": "Tarrone BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 92,
@@ -2236,7 +2236,7 @@
       },
       "match_score": 0.994,
       "project_site": "Coonawarren BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 93,
@@ -2356,7 +2356,7 @@
       },
       "match_score": 0.579,
       "project_site": "Willowvale Solar Farm and BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 98,
@@ -2404,7 +2404,7 @@
       },
       "match_score": 0.925,
       "project_site": "Melbourne Grid Battery",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 100,
@@ -2476,7 +2476,7 @@
       },
       "match_score": 1.0,
       "project_site": "Moorabool BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 103,
@@ -2500,7 +2500,7 @@
       },
       "match_score": 0.812,
       "project_site": "Tramway BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 104,
@@ -2548,7 +2548,7 @@
       },
       "match_score": 0.6,
       "project_site": "Puzzle Range BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 106,
@@ -2572,7 +2572,7 @@
       },
       "match_score": 0.6,
       "project_site": "Koorangie Stage 2 BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 107,
@@ -2668,7 +2668,7 @@
       },
       "match_score": 0.6,
       "project_site": "Yass Solar Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 111,
@@ -2716,7 +2716,7 @@
       },
       "match_score": 0.591,
       "project_site": "Tamworth Solar Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 113,
@@ -2740,7 +2740,7 @@
       },
       "match_score": 0.6,
       "project_site": "Vales Point Solar",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 114,
@@ -2764,7 +2764,7 @@
       },
       "match_score": 0.79,
       "project_site": "Orana Battery Energy Storage System",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 115,
@@ -2812,7 +2812,7 @@
       },
       "match_score": 0.6,
       "project_site": "Narrabri Hybrid",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 117,
@@ -2860,7 +2860,7 @@
       },
       "match_score": 0.871,
       "project_site": "White Rock Solar & Wind Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 119,
@@ -2956,7 +2956,7 @@
       },
       "match_score": 0.85,
       "project_site": "Armidale Battery Energy Supply System",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 123,
@@ -3028,7 +3028,7 @@
       },
       "match_score": 0.6,
       "project_site": "Tirranna BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 126,
@@ -3076,7 +3076,7 @@
       },
       "match_score": 0.867,
       "project_site": "Middlebrook SF & BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 128,
@@ -3100,7 +3100,7 @@
       },
       "match_score": 1.0,
       "project_site": "Tamworth Energy Reserve",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 129,
@@ -3148,7 +3148,7 @@
       },
       "match_score": 0.933,
       "project_site": "Muswellbrook PRO BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 131,
@@ -3172,7 +3172,7 @@
       },
       "match_score": 0.9,
       "project_site": "Mavis Solar Farm and BESS",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 132,
@@ -3196,7 +3196,7 @@
       },
       "match_score": 0.814,
       "project_site": "Buronga BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 133,
@@ -3268,7 +3268,7 @@
       },
       "match_score": 1.0,
       "project_site": "Hay Sun Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Anticipated"
     },
     {
       "marker_idx": 136,
@@ -3316,7 +3316,7 @@
       },
       "match_score": 0.95,
       "project_site": "Forbes Solar Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 138,
@@ -3412,7 +3412,7 @@
       },
       "match_score": 0.759,
       "project_site": "Coppabella Wind Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Anticipated"
     },
     {
       "marker_idx": 142,
@@ -3484,7 +3484,7 @@
       },
       "match_score": 0.55,
       "project_site": "Hanworth BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 145,
@@ -3532,7 +3532,7 @@
       },
       "match_score": 0.591,
       "project_site": "Merriwa Energy Hub",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 147,
@@ -3652,7 +3652,7 @@
       },
       "match_score": 0.966,
       "project_site": "Eraring BESS",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 152,
@@ -3700,7 +3700,7 @@
       },
       "match_score": 0.595,
       "project_site": "Port Kembla Power Station",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 154,
@@ -3748,7 +3748,7 @@
       },
       "match_score": 0.6,
       "project_site": "Yanco Battery Energy Storage System",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 156,
@@ -3844,31 +3844,7 @@
       },
       "match_score": 0.644,
       "project_site": "Lakeland Wind Farm",
-      "project_stage_before": "Existing"
-    },
-    {
-      "marker_idx": 160,
-      "marker": {
-        "state": "QLD",
-        "tile": "qld_r0c1",
-        "fuel": "Battery",
-        "stage": "Operational",
-        "capacity_mw": 13,
-        "nearest_label": "Cooktown",
-        "x_pct": 3,
-        "y_pct": 11,
-        "fuel_conf": "medium",
-        "stage_conf": "medium",
-        "capacity_conf": "high",
-        "label_conf": "medium",
-        "page_x": 325.9,
-        "page_y": 39.1,
-        "lat": -15.94955,
-        "lon": 144.99128
-      },
-      "match_score": 1.0,
-      "project_site": "Cooktown Battery (13 MW)",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 161,
@@ -3916,7 +3892,7 @@
       },
       "match_score": 0.581,
       "project_site": "Blair Athol Solar Power Station",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 163,
@@ -3940,7 +3916,7 @@
       },
       "match_score": 0.59,
       "project_site": "Hopeland Battery Energy Storage System",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 164,
@@ -3964,7 +3940,7 @@
       },
       "match_score": 0.704,
       "project_site": "Mt Fox Energy Park BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 165,
@@ -4012,7 +3988,7 @@
       },
       "match_score": 0.57,
       "project_site": "Western Downs Battery Connection",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 167,
@@ -4036,7 +4012,7 @@
       },
       "match_score": 0.6,
       "project_site": "X-Elio Halys BESS",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 168,
@@ -4084,7 +4060,7 @@
       },
       "match_score": 0.6,
       "project_site": "Tyrone Solar Farm",
-      "project_stage_before": "Committed"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 170,
@@ -4108,7 +4084,7 @@
       },
       "match_score": 0.894,
       "project_site": "ACE - Yabulu BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 171,
@@ -4132,7 +4108,7 @@
       },
       "match_score": 0.739,
       "project_site": "Supernode North 3",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 172,
@@ -4156,7 +4132,7 @@
       },
       "match_score": 0.98,
       "project_site": "Pinnacles BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 173,
@@ -4228,7 +4204,7 @@
       },
       "match_score": 0.82,
       "project_site": "Burdekin Solar Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 176,
@@ -4276,7 +4252,7 @@
       },
       "match_score": 0.8,
       "project_site": "Bowen PHES",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 178,
@@ -4324,7 +4300,7 @@
       },
       "match_score": 0.6,
       "project_site": "Bouldercombe Battery Project - Stage 2",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 180,
@@ -4396,7 +4372,7 @@
       },
       "match_score": 0.707,
       "project_site": "Brampton Solar Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 183,
@@ -4444,7 +4420,7 @@
       },
       "match_score": 0.893,
       "project_site": "Moranbah Power Project",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 185,
@@ -4540,7 +4516,7 @@
       },
       "match_score": 0.993,
       "project_site": "Blackwater Solar Farm and BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 189,
@@ -4564,7 +4540,7 @@
       },
       "match_score": 0.725,
       "project_site": "Boomer Green Energy Hub",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Application"
     },
     {
       "marker_idx": 190,
@@ -4588,7 +4564,7 @@
       },
       "match_score": 0.6,
       "project_site": "Pacific Hydro - Bunkers Hill Pumped Hydro",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 191,
@@ -4732,7 +4708,7 @@
       },
       "match_score": 0.6,
       "project_site": "Tummaville Hybrid Facility",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 197,
@@ -4756,7 +4732,7 @@
       },
       "match_score": 0.871,
       "project_site": "Smoky Creek Energy Storage System",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 198,
@@ -4804,7 +4780,7 @@
       },
       "match_score": 0.786,
       "project_site": "Mount Larcom (Site A) Solar Farm",
-      "project_stage_before": "Application"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 200,
@@ -4828,7 +4804,7 @@
       },
       "match_score": 0.882,
       "project_site": "Bundaberg Solar Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 201,
@@ -4852,7 +4828,7 @@
       },
       "match_score": 0.88,
       "project_site": "Pleasant Hills Solar Farm",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     },
     {
       "marker_idx": 202,
@@ -5092,7 +5068,7 @@
       },
       "match_score": 0.981,
       "project_site": "Ulinda Park BESS",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Committed"
     },
     {
       "marker_idx": 212,
@@ -5140,17 +5116,17 @@
       },
       "match_score": 0.86,
       "project_site": "Bulli Creek Solar Farm B",
-      "project_stage_before": "Existing"
+      "project_stage_before": "Enquiry"
     }
   ],
-  "unmatched_count": 0,
-  "matched_count": 214,
-  "new_pseudo_projects": 0,
+  "unmatched_count": 1,
+  "matched_count": 213,
+  "new_pseudo_projects": 1,
   "summary_by_state": {
     "TAS": 34,
     "SA": 31,
     "VIC": 42,
     "NSW": 50,
-    "QLD": 57
+    "QLD": 56
   }
 }

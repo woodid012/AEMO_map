@@ -153,15 +153,16 @@ def main():
             project["aemo_map_stage"] = m["stage"]
             project["aemo_map_capacity"] = m.get("capacity_mw")
             project["aemo_map_label"] = m.get("nearest_label")
-            # Use vision-derived coords if available and project wasn't geocoded
+            # Prefer AEMO icon position over Nominatim — AEMO is authoritative
+            # for grid-connection location. Store Nominatim as a cross-reference.
             if m.get("lat") is not None and m.get("lon") is not None:
-                if not project.get("geocoded"):
-                    project["lat"] = m["lat"]
-                    project["lon"] = m["lon"]
-                    project["coords_source"] = "aemo_map_vision"
-                else:
-                    project["aemo_map_lat"] = m["lat"]
-                    project["aemo_map_lon"] = m["lon"]
+                if project.get("geocoded"):
+                    project["nominatim_lat"] = project.get("lat")
+                    project["nominatim_lon"] = project.get("lon")
+                project["lat"] = m["lat"]
+                project["lon"] = m["lon"]
+                project["coords_source"] = "aemo_map_vision"
+                project["geocoded"] = True  # treat AEMO icon as a real fix
             new_stage = VISION_STAGE_TO_DISPLAY.get(m["stage"], project.get("stage"))
             # Don't downgrade an Existing project (NEM In Service) just because
             # marker is mid-pipeline; trust NEM Gen Info for fleet membership.
