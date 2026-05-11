@@ -448,8 +448,10 @@
     "geocoded": true,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 440,
-    "aemo_map_label": "Liverpool / Macarthur",
-    "vision_match_conf": 0.59
+    "aemo_map_label": "Macarthur",
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -35.16438,
+    "aemo_map_lon": 150.39154
   },
   {
     "site_name": "Arundel BESS",
@@ -638,8 +640,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 94,
-    "aemo_map_label": "Bairnsdale / V5",
-    "vision_match_conf": 1.0
+    "aemo_map_label": "V5 Gippsland / Bairnsdale",
+    "vision_match_conf": 0.8,
+    "aemo_map_lat": -37.97474,
+    "aemo_map_lon": 147.51045
   },
   {
     "site_name": "Bairnsdale BESS",
@@ -758,8 +762,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 107,
-    "aemo_map_label": "Heywood",
-    "vision_match_conf": 0.6
+    "aemo_map_label": "Cape Bridgewater",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -38.60948,
+    "aemo_map_lon": 141.25393
   },
   {
     "site_name": "Baldon Wind Farm",
@@ -1133,7 +1139,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 210,
     "aemo_map_label": "Adelaide CBD ref #2",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -35.63081,
+    "aemo_map_lon": 136.39657
   },
   {
     "site_name": "Barker Inlet Power Station 2",
@@ -1439,7 +1447,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 2640,
     "aemo_map_label": "Bayswater",
-    "vision_match_conf": 0.98
+    "vision_match_conf": 0.98,
+    "aemo_map_lat": -32.71565,
+    "aemo_map_lon": 152.50899
   },
   {
     "site_name": "Beebo Battary - KCI",
@@ -2075,15 +2085,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -24.18558041186992,
-    "lon": 148.1865191275771,
+    "lat": -16.844,
+    "lon": 146.00975,
     "lat_approx": -24.18558041186992,
     "lon_approx": 148.1865191275771,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 62,
     "aemo_map_label": "Worree / Edmonton",
-    "vision_match_conf": 0.58
+    "vision_match_conf": 0.58,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Blanche BESS - KCI",
@@ -2569,7 +2580,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 110,
     "aemo_map_label": "Armidale",
-    "vision_match_conf": 0.95
+    "vision_match_conf": 0.95,
+    "aemo_map_lat": -29.90414,
+    "aemo_map_lon": 151.38269
   },
   {
     "site_name": "Bookaar Solar Farm",
@@ -2655,15 +2668,16 @@
     "source": "NEM+KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -22.00604135228852,
-    "lon": 142.2000640953413,
+    "lat": -22.39899,
+    "lon": 149.25037,
     "lat_approx": -22.00604135228852,
     "lon_approx": 142.2000640953413,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 700,
     "aemo_map_label": "Stanwell area",
-    "vision_match_conf": 0.73
+    "vision_match_conf": 0.73,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Boort Wind Farm",
@@ -2963,7 +2977,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 655,
     "aemo_map_label": "Braemar",
-    "vision_match_conf": 0.92
+    "vision_match_conf": 0.92,
+    "aemo_map_lat": -27.76568,
+    "aemo_map_lon": 151.33362
   },
   {
     "site_name": "Braemar 2 Power Station",
@@ -3529,7 +3545,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 320,
     "aemo_map_label": "Boggabri",
-    "vision_match_conf": 0.59
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -30.49365,
+    "aemo_map_lon": 150.39154
   },
   {
     "site_name": "Bulli Creek Battery",
@@ -3649,7 +3667,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 440,
     "aemo_map_label": "Norwich Park / Dysart",
-    "vision_match_conf": 0.66
+    "vision_match_conf": 0.66,
+    "aemo_map_lat": -23.05806,
+    "aemo_map_lon": 148.46336
   },
   {
     "site_name": "Bundaberg Solar Farm",
@@ -3677,7 +3697,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 97,
     "aemo_map_label": "Bundaberg",
-    "vision_match_conf": 0.88
+    "vision_match_conf": 0.88,
+    "aemo_map_lat": -24.7528,
+    "aemo_map_lon": 152.3521
   },
   {
     "site_name": "Bundey BESS and Solar Project",
@@ -4700,8 +4722,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 141,
-    "aemo_map_label": "Yass / Capital",
-    "vision_match_conf": 0.8
+    "aemo_map_label": "Capital",
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -34.89229,
+    "aemo_map_lon": 148.81471
   },
   {
     "site_name": "Capricorn BESS - KCI",
@@ -5440,8 +5464,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 110,
-    "aemo_map_label": "Hayman / Gatton",
-    "vision_match_conf": 0.6
+    "aemo_map_label": "Gatton",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -28.04814,
+    "aemo_map_lon": 151.56509
   },
   {
     "site_name": "Clarke Creek 2 BESS - KCI",
@@ -5609,7 +5635,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 72,
     "aemo_map_label": "Clermont",
-    "vision_match_conf": 0.87
+    "vision_match_conf": 0.87,
+    "aemo_map_lat": -23.52882,
+    "aemo_map_lon": 147.16712
   },
   {
     "site_name": "Clover",
@@ -6288,8 +6316,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 453,
-    "aemo_map_label": "Coopers Gap / Cooranga",
-    "vision_match_conf": 0.87
+    "aemo_map_label": "Coopers Gap",
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -27.67153,
+    "aemo_map_lon": 150.87067
   },
   {
     "site_name": "Cooroy BESS",
@@ -6364,8 +6394,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 270,
-    "aemo_map_label": "Yass / Capital",
-    "vision_match_conf": 0.76
+    "aemo_map_label": "Yass / Bango",
+    "vision_match_conf": 0.76,
+    "aemo_map_lat": -34.71091,
+    "aemo_map_lon": 148.00377
   },
   {
     "site_name": "Corop BESS",
@@ -6487,7 +6519,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 113,
     "aemo_map_label": "Crookwell / Gunning",
-    "vision_match_conf": 0.71
+    "vision_match_conf": 0.71,
+    "aemo_map_lat": -33.89466,
+    "aemo_map_lon": 148.00377
   },
   {
     "site_name": "Crookwell 3 Wind Farm",
@@ -6725,7 +6759,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 30,
     "aemo_map_label": "Dalrymple",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -34.89563,
+    "aemo_map_lon": 137.77643
   },
   {
     "site_name": "Dalvui BESS",
@@ -7401,7 +7437,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 54,
     "aemo_map_label": "Waddamana",
-    "vision_match_conf": 0.54
+    "vision_match_conf": 0.54,
+    "aemo_map_lat": -42.3789,
+    "aemo_map_lon": 146.58101
   },
   {
     "site_name": "Devlins Bridge Battery Storage",
@@ -7585,15 +7623,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "DRYCGT1",
-    "lat": -35.473310560981616,
-    "lon": 138.67713273087097,
+    "lat": -36.31152,
+    "lon": 136.39657,
     "lat_approx": -35.473310560981616,
     "lon_approx": 138.67713273087097,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 156,
     "aemo_map_label": "Adelaide CBD ref #7",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Dugald River Wind Faarm",
@@ -8037,7 +8076,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 305,
     "aemo_map_label": "Eildon",
-    "vision_match_conf": 0.67
+    "vision_match_conf": 0.67,
+    "aemo_map_lat": -37.64226,
+    "aemo_map_lon": 145.71838
   },
   {
     "site_name": "Eildon Pondage Power Station (EPPS)",
@@ -8341,7 +8382,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 2880,
     "aemo_map_label": "Eraring",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -33.3505,
+    "aemo_map_lon": 151.96837
   },
   {
     "site_name": "Eraring Big Battery",
@@ -8550,8 +8593,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 46,
-    "aemo_map_label": "Sheffield",
-    "vision_match_conf": 0.6
+    "aemo_map_label": "Sheffield (south)",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -41.69531,
+    "aemo_map_lon": 146.28636
   },
   {
     "site_name": "Fletcher Creek Wind Farm & BESS",
@@ -9391,7 +9436,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 1632,
     "aemo_map_label": "Biloela",
-    "vision_match_conf": 0.58
+    "vision_match_conf": 0.58,
+    "aemo_map_lat": -24.51742,
+    "aemo_map_lon": 150.87067
   },
   {
     "site_name": "Glanmire Solar Farm",
@@ -10001,7 +10048,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 432,
     "aemo_map_label": "south of Queenstown",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -42.74571,
+    "aemo_map_lon": 145.9917
   },
   {
     "site_name": "Goulburn River BESS",
@@ -10265,7 +10314,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 111,
     "aemo_map_label": "Rosebery",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -41.89538,
+    "aemo_map_lon": 144.9604
   },
   {
     "site_name": "Great Eastern Offshore Wind - KCI",
@@ -10723,7 +10774,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 117,
     "aemo_map_label": "Gunnedah",
-    "vision_match_conf": 0.96
+    "vision_match_conf": 0.96,
+    "aemo_map_lat": -31.08316,
+    "aemo_map_lon": 150.7069
   },
   {
     "site_name": "Gunning Solar Farm (Canadian)",
@@ -11055,7 +11108,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 70,
     "aemo_map_label": "Yadnarie",
-    "vision_match_conf": 0.59
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -33.67035,
+    "aemo_map_lon": 136.48282
   },
   {
     "site_name": "Halys BESS - Iberdrola",
@@ -11575,15 +11630,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -30.59434622437986,
-    "lon": 149.9365040869576,
+    "lat": -34.43883,
+    "lon": 143.85897,
     "lat_approx": -30.59434622437986,
     "lon_approx": 149.9365040869576,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 110,
     "aemo_map_label": "Hay",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Hayman Solar Farm",
@@ -11829,15 +11885,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "HILLSTN1",
-    "lat": -31.715771707134206,
-    "lon": 147.2042437157351,
+    "lat": -34.1214,
+    "lon": 145.3457,
     "lat_approx": -31.715771707134206,
     "lon_approx": 147.2042437157351,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 85,
     "aemo_map_label": "Hillston",
-    "vision_match_conf": 0.86
+    "vision_match_conf": 0.86,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Hobart Show Grounds BESS",
@@ -12121,7 +12178,9 @@
     "aemo_map_stage": "Pre-Registration",
     "aemo_map_capacity": 119,
     "aemo_map_label": "Horsham",
-    "vision_match_conf": 0.9
+    "vision_match_conf": 0.9,
+    "aemo_map_lat": -36.88662,
+    "aemo_map_lon": 142.48008
   },
   {
     "site_name": "Horsham Solar Farm",
@@ -12163,15 +12222,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "HUGSF1",
-    "lat": -22.524925980950925,
-    "lon": 148.77579741378898,
+    "lat": -20.9867,
+    "lon": 144.15798,
     "lat_approx": -22.524925980950925,
     "lon_approx": 148.77579741378898,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 18,
     "aemo_map_label": "Hughenden",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Hughes Road BESS",
@@ -12479,7 +12539,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 400,
     "aemo_map_label": "Inverell",
-    "vision_match_conf": 0.62
+    "vision_match_conf": 0.62,
+    "aemo_map_lat": -29.90414,
+    "aemo_map_lon": 151.38269
   },
   {
     "site_name": "Inverleigh Solar Farm",
@@ -12905,9 +12967,11 @@
     "geocode_display": "John Butters Power Station, Queenstown, Tasmania, 7467, Australia",
     "geocoded": true,
     "aemo_map_stage": "Operational",
-    "aemo_map_capacity": 143,
-    "aemo_map_label": "Derwent Bridge",
-    "vision_match_conf": 0.6
+    "aemo_map_capacity": 144,
+    "aemo_map_label": "Derwent Bridge / Tarraleah",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -42.1955,
+    "aemo_map_lon": 145.52516
   },
   {
     "site_name": "Jounama",
@@ -13539,7 +13603,9 @@
     "aemo_map_stage": "Registration",
     "aemo_map_capacity": 220,
     "aemo_map_label": "Wemen",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -35.31488,
+    "aemo_map_lon": 142.4172
   },
   {
     "site_name": "Kiamal Solar Farm - Stage 1",
@@ -13591,7 +13657,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 31,
     "aemo_map_label": "Kiata",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -36.58436,
+    "aemo_map_lon": 141.7884
   },
   {
     "site_name": "Kidston Pumped Storage Hydro Project 250MW",
@@ -13609,15 +13677,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -19.055176027797483,
-    "lon": 147.65228488553637,
+    "lat": -19.33904,
+    "lon": 143.9265,
     "lat_approx": -19.055176027797483,
     "lon_approx": 147.65228488553637,
     "geocoded": false,
     "aemo_map_stage": "Commissioning",
     "aemo_map_capacity": 244,
     "aemo_map_label": "Kidston",
-    "vision_match_conf": 0.99
+    "vision_match_conf": 0.99,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Kidston Solar Project Phase One 50MW",
@@ -13635,15 +13704,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "KSP1",
-    "lat": -23.653044772606975,
-    "lon": 149.10414804494783,
+    "lat": -19.10366,
+    "lon": 143.83391,
     "lat_approx": -23.653044772606975,
     "lon_approx": 149.10414804494783,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 47,
     "aemo_map_label": "Kidston",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Kidston Solar Project Phase Two 270MW",
@@ -13899,7 +13969,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 750,
     "aemo_map_label": "Kogan Creek",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -28.37767,
+    "aemo_map_lon": 150.87067
   },
   {
     "site_name": "Koolunga Battery Energy Storage System",
@@ -13998,8 +14070,10 @@
     "geocoded": true,
     "aemo_map_stage": "Registration",
     "aemo_map_capacity": 171,
-    "aemo_map_label": "Murray River area",
-    "vision_match_conf": 0.55
+    "aemo_map_label": "Murray River (east)",
+    "vision_match_conf": 0.55,
+    "aemo_map_lat": -35.94962,
+    "aemo_map_lon": 143.92631
   },
   {
     "site_name": "Koyuga Nanneella Wind Farm",
@@ -14281,7 +14355,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 67,
     "aemo_map_label": "Clare South",
-    "vision_match_conf": 0.55
+    "vision_match_conf": 0.55,
+    "aemo_map_lat": -19.8098,
+    "aemo_map_lon": 147.53747
   },
   {
     "site_name": "Lambing Gully BESS",
@@ -14379,7 +14455,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 81,
     "aemo_map_label": "Red Cliffs / Buronga",
-    "vision_match_conf": 0.59
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -34.40811,
+    "aemo_map_lon": 142.16568
   },
   {
     "site_name": "Latrobe Solar Farm",
@@ -14493,15 +14571,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -35.37239145342904,
-    "lon": 137.29427639332224,
+    "lat": -37.918,
+    "lon": 140.36365,
     "lat_approx": -35.37239145342904,
     "lon_approx": 137.29427639332224,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 46,
     "aemo_map_label": "Mayura",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Lemonthyme / Wilmot",
@@ -14669,7 +14748,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 100,
     "aemo_map_label": "Lilyvale / Gregory",
-    "vision_match_conf": 0.71
+    "vision_match_conf": 0.71,
+    "aemo_map_lat": -23.29344,
+    "aemo_map_lon": 148.09301
   },
   {
     "site_name": "Limestone Creek BESS",
@@ -14831,7 +14912,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 66,
     "aemo_map_label": "Port Lincoln (south)",
-    "vision_match_conf": 0.66
+    "vision_match_conf": 0.66,
+    "aemo_map_lat": -34.92286,
+    "aemo_map_lon": 135.62041
   },
   {
     "site_name": "Lincoln Gap Wind Farm stage 3",
@@ -15109,7 +15192,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 15,
     "aemo_map_label": "Longreach",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -23.99958,
+    "aemo_map_lon": 144.11168
   },
   {
     "site_name": "Lonsdale",
@@ -15253,7 +15338,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 2210,
     "aemo_map_label": "Loy Yang",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -38.48858,
+    "aemo_map_lon": 146.1271
   },
   {
     "site_name": "Loy Yang B",
@@ -15281,7 +15368,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 1100,
     "aemo_map_label": "Loy Yang",
-    "vision_match_conf": 0.97
+    "vision_match_conf": 0.97,
+    "aemo_map_lat": -38.54903,
+    "aemo_map_lon": 146.25286
   },
   {
     "site_name": "Loy Yang B Power Station - BESS Stage 1 - KCI",
@@ -15399,7 +15488,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 420,
     "aemo_map_label": "Macarthur",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -38.18632,
+    "aemo_map_lon": 141.9456
   },
   {
     "site_name": "MacIntyre Wind Farm",
@@ -15729,7 +15820,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 140,
     "aemo_map_label": "Manildra",
-    "vision_match_conf": 0.61
+    "vision_match_conf": 0.61,
+    "aemo_map_lat": -33.21446,
+    "aemo_map_lon": 146.87747
   },
   {
     "site_name": "Mannum Adelaide Pumping Station No 2 - MAPL2 (Palmer)",
@@ -16305,7 +16398,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 40,
     "aemo_map_label": "Waddamana",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -42.5623,
+    "aemo_map_lon": 146.70379
   },
   {
     "site_name": "Meering BESS",
@@ -16805,15 +16900,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "MPP_1",
-    "lat": -18.77958371299827,
-    "lon": 149.79490637494735,
+    "lat": -28.61305,
+    "lon": 150.6392,
     "lat_approx": -18.77958371299827,
     "lon_approx": 149.79490637494735,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 850,
     "aemo_map_label": "Millmerran",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Millmerran Wind Farm",
@@ -17279,7 +17375,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 300,
     "aemo_map_label": "Moorabool",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -38.42812,
+    "aemo_map_lon": 144.77519
   },
   {
     "site_name": "Moorabool Wind Farm",
@@ -18269,7 +18367,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 1400,
     "aemo_map_label": "Mt Piper / Wallerawang",
-    "vision_match_conf": 0.8
+    "vision_match_conf": 0.8,
+    "aemo_map_lat": -33.3505,
+    "aemo_map_lon": 150.30143
   },
   {
     "site_name": "Mt Piper BESS",
@@ -18714,8 +18814,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 168,
-    "aemo_map_label": "Derby (north of)",
-    "vision_match_conf": 0.6
+    "aemo_map_label": "Derby (north)",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -40.87833,
+    "aemo_map_lon": 147.85786
   },
   {
     "site_name": "Muswellbrook BESS",
@@ -18931,7 +19033,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 13,
     "aemo_map_label": "Narromine",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -32.03544,
+    "aemo_map_lon": 148.5444
   },
   {
     "site_name": "Nebo BESS",
@@ -19525,7 +19629,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 102,
     "aemo_map_label": "Nyngan",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -31.26455,
+    "aemo_map_lon": 146.92252
   },
   {
     "site_name": "Oakey 2 Solar Farm",
@@ -19624,8 +19730,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 67,
-    "aemo_map_label": "Heywood",
-    "vision_match_conf": 0.6
+    "aemo_map_label": "Cape Nelson",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -38.85128,
+    "aemo_map_lon": 141.37968
   },
   {
     "site_name": "Oaky Creek",
@@ -20011,15 +20119,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -41.6139834213581,
-    "lon": 145.80622043469222,
+    "lat": -41.89538,
+    "lon": 146.97389,
     "lat_approx": -41.6139834213581,
     "lon_approx": 145.80622043469222,
     "geocoded": false,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 107,
     "aemo_map_label": "Palmerston",
-    "vision_match_conf": 0.96
+    "vision_match_conf": 0.96,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Paloona",
@@ -20105,7 +20214,7 @@
     "location_desc": "",
     "stage": "Existing",
     "source": "NEM",
-    "on_aemo_map": false,
+    "on_aemo_map": true,
     "duid": "PARSF1",
     "lat": -32.8225409,
     "lon": 147.9761363,
@@ -20113,7 +20222,13 @@
     "lon_approx": 144.72569328792903,
     "geocode_query": "Parkes, NSW, Australia",
     "geocode_display": "Parkes Shire Council, New South Wales, Australia",
-    "geocoded": true
+    "geocoded": true,
+    "aemo_map_stage": "Operational",
+    "aemo_map_capacity": 50,
+    "aemo_map_label": "Forbes / Parkes",
+    "aemo_map_lat": -33.12377,
+    "aemo_map_lon": 146.5621,
+    "vision_match_conf": 0.79
   },
   {
     "site_name": "Peel Valley BESS",
@@ -20185,7 +20300,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 529,
     "aemo_map_label": "Adelaide CBD ref #4",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -35.93032,
+    "aemo_map_lon": 136.39657
   },
   {
     "site_name": "Pelican Point BESS",
@@ -20235,7 +20352,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 25,
     "aemo_map_label": "Mayura",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -38.08138,
+    "aemo_map_lon": 140.36365
   },
   {
     "site_name": "Peninsula Solar Farm & BESS",
@@ -20701,7 +20820,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 660,
     "aemo_map_label": "Kurri Kurri",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -33.21446,
+    "aemo_map_lon": 151.7431
   },
   {
     "site_name": "Port Latta Wind Farm",
@@ -20719,15 +20840,16 @@
     "source": "NEM+KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -42.092941065408915,
-    "lon": 147.17936522299118,
+    "lat": -40.82831,
+    "lon": 145.40238,
     "lat_approx": -42.092941065408915,
     "lon_approx": 147.17936522299118,
     "geocoded": false,
     "aemo_map_stage": "Pre-Registration",
     "aemo_map_capacity": 21,
     "aemo_map_label": "Port Latta",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Port Lincoln GT",
@@ -20745,15 +20867,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "POR01",
-    "lat": -33.33804234107977,
-    "lon": 137.1800031676047,
+    "lat": -34.67781,
+    "lon": 136.02286,
     "lat_approx": -33.33804234107977,
     "lon_approx": 137.1800031676047,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 78,
     "aemo_map_label": "Port Lincoln",
-    "vision_match_conf": 0.97
+    "vision_match_conf": 0.97,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Port Paterson BESS",
@@ -20873,7 +20996,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 192,
     "aemo_map_label": "Portland",
-    "vision_match_conf": 0.87
+    "vision_match_conf": 0.87,
+    "aemo_map_lat": -38.48858,
+    "aemo_map_lon": 141.3168
   },
   {
     "site_name": "Portland Wind Farm - KCI",
@@ -21069,15 +21194,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -33.52197751759413,
-    "lon": 138.81839894444974,
+    "lat": -38.16306,
+    "lon": 140.7661,
     "lat_approx": -33.52197751759413,
     "lon_approx": 138.81839894444974,
     "geocoded": false,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 125,
     "aemo_map_label": "Mt Gambier",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Proserpine Wind Farm - KCI",
@@ -21185,15 +21311,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -36.402600642737696,
-    "lon": 146.2321464861482,
+    "lat": -37.97474,
+    "lon": 147.44757,
     "lat_approx": -36.402600642737696,
     "lon_approx": 146.2321464861482,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 50,
     "aemo_map_label": "V5 Gippsland",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Puzzle Range Wind Farm",
@@ -21595,7 +21722,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 231,
     "aemo_map_label": "Rosebery",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -41.74533,
+    "aemo_map_lon": 145.05862
   },
   {
     "site_name": "Reeves Plains OCGT - stage 1",
@@ -21635,15 +21764,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -34.358325169231044,
-    "lon": 139.0488651338543,
+    "lat": -36.17538,
+    "lon": 136.39657,
     "lat_approx": -34.358325169231044,
     "lon_approx": 139.0488651338543,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 150,
     "aemo_map_label": "Adelaide CBD ref #6",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Reeves Plains Power Station BESS",
@@ -21695,7 +21825,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 33,
     "aemo_map_label": "Waddamana",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -42.24552,
+    "aemo_map_lon": 146.55646
   },
   {
     "site_name": "Richmond Valley BESS",
@@ -21979,7 +22111,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 250,
     "aemo_map_label": "Robertstown",
-    "vision_match_conf": 0.78
+    "vision_match_conf": 0.78,
+    "aemo_map_lat": -33.45252,
+    "aemo_map_lon": 139.73122
   },
   {
     "site_name": "Robertstown Solar",
@@ -22095,7 +22229,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 80,
     "aemo_map_label": "Roma",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -26.82415,
+    "aemo_map_lon": 148.55595
   },
   {
     "site_name": "Romani BESS",
@@ -22212,8 +22348,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 15,
-    "aemo_map_label": "Derwent Bridge",
-    "vision_match_conf": 0.6
+    "aemo_map_label": "Tungatinah",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -42.3789,
+    "aemo_map_lon": 145.9917
   },
   {
     "site_name": "Rowallan Pumped Hydro Option",
@@ -22449,7 +22587,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 66,
     "aemo_map_label": "Kamerunga",
-    "vision_match_conf": 0.59
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -16.46739,
+    "aemo_map_lon": 146.38011
   },
   {
     "site_name": "Running Creek Solar and BESS",
@@ -22535,15 +22675,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "RYANCWF1",
-    "lat": -36.27181339209282,
-    "lon": 143.27188429793705,
+    "lat": -38.24677,
+    "lon": 143.2032,
     "lat_approx": -36.27181339209282,
     "lon_approx": 143.27188429793705,
     "geocoded": false,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 220,
     "aemo_map_label": "Terang area",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Rye Park Wind Farm",
@@ -23127,7 +23268,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 140,
     "aemo_map_label": "Snowtown",
-    "vision_match_conf": 0.83
+    "vision_match_conf": 0.83,
+    "aemo_map_lat": -33.18024,
+    "aemo_map_lon": 139.07004
   },
   {
     "site_name": "Snowtown S2 Wind Farm",
@@ -23179,7 +23322,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 99,
     "aemo_map_label": "Snowtown",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -33.04409,
+    "aemo_map_lon": 138.9838
   },
   {
     "site_name": "Snowy 2.0.",
@@ -23207,7 +23352,9 @@
     "aemo_map_stage": "Commissioning",
     "aemo_map_capacity": 2000,
     "aemo_map_label": "Snowy",
-    "vision_match_conf": 0.95
+    "vision_match_conf": 0.95,
+    "aemo_map_lat": -35.61784,
+    "aemo_map_lon": 148.00377
   },
   {
     "site_name": "Snuggery",
@@ -23234,8 +23381,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 86,
-    "aemo_map_label": "Kincraig",
-    "vision_match_conf": 0.59
+    "aemo_map_label": "Kincraig / Tantanoola",
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -37.42789,
+    "aemo_map_lon": 140.65112
   },
   {
     "site_name": "Solar River Solar And BESS Project",
@@ -23795,9 +23944,11 @@
     "geocode_display": "Stanwell, Queensland, 4702, Australia",
     "geocoded": true,
     "aemo_map_stage": "Operational",
-    "aemo_map_capacity": 1460,
+    "aemo_map_capacity": 1540,
     "aemo_map_label": "Stanwell",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 0.97,
+    "aemo_map_lat": -22.5873,
+    "aemo_map_lon": 150.12996
   },
   {
     "site_name": "Stanwell BESS",
@@ -24533,15 +24684,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "SWAN_E",
-    "lat": -19.22115397289265,
-    "lon": 144.33371819886673,
+    "lat": -27.57737,
+    "lon": 151.79656,
     "lat_approx": -19.22115397289265,
     "lon_approx": 144.33371819886673,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 385,
     "aemo_map_label": "Swanbank",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Tableland Mill",
@@ -24569,7 +24721,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 24,
     "aemo_map_label": "Cardwell",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -18.53874,
+    "aemo_map_lon": 146.61158
   },
   {
     "site_name": "Tabulam BESS",
@@ -25033,7 +25187,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 1400,
     "aemo_map_label": "Tarong",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -27.20076,
+    "aemo_map_lon": 151.10215
   },
   {
     "site_name": "Tarong BESS - Stanwell",
@@ -25083,7 +25239,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 443,
     "aemo_map_label": "Tarong North",
-    "vision_match_conf": 0.99
+    "vision_match_conf": 0.99,
+    "aemo_map_lat": -27.10661,
+    "aemo_map_lon": 151.19474
   },
   {
     "site_name": "Tarong West Wind Farm (Ironleaf)",
@@ -25133,7 +25291,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 88,
     "aemo_map_label": "Farrell",
-    "vision_match_conf": 0.59
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -41.79534,
+    "aemo_map_lon": 145.69704
   },
   {
     "site_name": "Tarraleah Redevelopment",
@@ -25645,7 +25805,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 220,
     "aemo_map_label": "Calvale",
-    "vision_match_conf": 0.95
+    "vision_match_conf": 0.95,
+    "aemo_map_lat": -24.18789,
+    "aemo_map_lon": 150.77809
   },
   {
     "site_name": "Theodore Solar Farm",
@@ -26281,9 +26443,11 @@
     "geocode_display": "Trevallyn, Tasmania, 7250, Australia",
     "geocoded": true,
     "aemo_map_stage": "Operational",
-    "aemo_map_capacity": 94,
-    "aemo_map_label": "Derwent Bridge",
-    "vision_match_conf": 0.59
+    "aemo_map_capacity": 92,
+    "aemo_map_label": "Farrell / Newton",
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -41.91206,
+    "aemo_map_lon": 145.74615
   },
   {
     "site_name": "Triabunna Wind Farm",
@@ -26536,8 +26700,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 1500,
-    "aemo_map_label": "Snowy / Tumut",
-    "vision_match_conf": 0.8
+    "aemo_map_label": "Tumut",
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -34.89229,
+    "aemo_map_lon": 148.04883
   },
   {
     "site_name": "Tungatinah",
@@ -26561,7 +26727,13 @@
     "lon_approx": 146.97082921554647,
     "geocode_query": "Tungatinah, TAS, Australia",
     "geocode_display": "Tungatinah Power Station, Lyell Highway, Tarraleah, Tasmania, 7140, Australia",
-    "geocoded": true
+    "geocoded": true,
+    "aemo_map_stage": "Operational",
+    "aemo_map_capacity": 45,
+    "aemo_map_label": "Tungatinah (south)",
+    "aemo_map_lat": -42.5623,
+    "aemo_map_lon": 146.45824,
+    "vision_match_conf": 0.62
   },
   {
     "site_name": "Tungkillo South BESS",
@@ -26659,7 +26831,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 150,
     "aemo_map_label": "Western Downs",
-    "vision_match_conf": 0.98
+    "vision_match_conf": 0.98,
+    "aemo_map_lat": -28.04814,
+    "aemo_map_lon": 151.33362
   },
   {
     "site_name": "Ulinda Park BESS Expansion",
@@ -26939,7 +27113,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 1320,
     "aemo_map_label": "Vales Point",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -33.62258,
+    "aemo_map_lon": 151.96837
   },
   {
     "site_name": "Vales Point BESS",
@@ -26979,15 +27155,16 @@
     "source": "NEM",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -30.6602653162325,
-    "lon": 147.15937390105904,
+    "lat": -31.76336,
+    "lon": 148.94987,
     "lat_approx": -30.6602653162325,
     "lon_approx": 147.15937390105904,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 55,
     "aemo_map_label": "Dubbo",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Valley of the Winds",
@@ -27691,7 +27868,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 91,
     "aemo_map_label": "Yorke Peninsula south",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -35.22238,
+    "aemo_map_lon": 137.66144
   },
   {
     "site_name": "Waubra",
@@ -27905,7 +28084,9 @@
     "aemo_map_stage": "Pre-Registration",
     "aemo_map_capacity": 150,
     "aemo_map_label": "Wemen",
-    "vision_match_conf": 0.79
+    "vision_match_conf": 0.79,
+    "aemo_map_lat": -35.31488,
+    "aemo_map_lon": 142.16568
   },
   {
     "site_name": "West Illawarra Leagues Club",
@@ -28023,7 +28204,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 105,
     "aemo_map_label": "Narromine",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -31.58198,
+    "aemo_map_lon": 147.28294
   },
   {
     "site_name": "Western Downs Battery - Stage 1 And 2",
@@ -28849,7 +29032,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 500,
     "aemo_map_label": "Wivenhoe",
-    "vision_match_conf": 0.93
+    "vision_match_conf": 0.93,
+    "aemo_map_lat": -27.43615,
+    "aemo_map_lon": 151.79656
   },
   {
     "site_name": "Wodonga BESS",
@@ -28900,8 +29085,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 70,
-    "aemo_map_label": "Hay/Deniliquin area",
-    "vision_match_conf": 0.55
+    "aemo_map_label": "Mulwala area",
+    "vision_match_conf": 0.55,
+    "aemo_map_lat": -36.01007,
+    "aemo_map_lon": 144.61799
   },
   {
     "site_name": "Wollar BESS",
@@ -29023,7 +29210,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 20,
     "aemo_map_label": "V3 zone",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -36.67504,
+    "aemo_map_lon": 143.29752
   },
   {
     "site_name": "Wongalea BESS",
@@ -29249,13 +29438,18 @@
     "location_desc": "",
     "stage": "Existing",
     "source": "NEM",
-    "on_aemo_map": false,
+    "on_aemo_map": true,
     "duid": "WOOLNTH1",
-    "lat": -42.43799143118059,
-    "lon": 147.16161433612533,
+    "lat": -40.91167,
+    "lon": 144.86218,
     "lat_approx": -42.43799143118059,
     "lon_approx": 147.16161433612533,
-    "geocoded": false
+    "geocoded": false,
+    "aemo_map_stage": "Operational",
+    "aemo_map_capacity": 75,
+    "aemo_map_label": "Woolnorth",
+    "coords_source": "aemo_map_vision",
+    "vision_match_conf": 0.73
   },
   {
     "site_name": "Woolooga BESS",
@@ -29699,7 +29893,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 1480,
     "aemo_map_label": "Yallourn",
-    "vision_match_conf": 0.99
+    "vision_match_conf": 0.99,
+    "aemo_map_lat": -38.42812,
+    "aemo_map_lon": 146.03278
   },
   {
     "site_name": "Yaloak South Wind Farm",
@@ -29959,7 +30155,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 180,
     "aemo_map_label": "Yarwun",
-    "vision_match_conf": 1.0
+    "vision_match_conf": 1.0,
+    "aemo_map_lat": -23.05806,
+    "aemo_map_lon": 151.65768
   },
   {
     "site_name": "Yatpool Solar Farm",
@@ -29986,8 +30184,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 95,
-    "aemo_map_label": "Hay/Deniliquin area",
-    "vision_match_conf": 0.59
+    "aemo_map_label": "Corowa area",
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -36.22165,
+    "aemo_map_lon": 145.08959
   },
   {
     "site_name": "Yawong Wind Farm",
@@ -30179,7 +30379,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 200,
     "aemo_map_label": "Armidale",
-    "vision_match_conf": 0.85
+    "vision_match_conf": 0.85,
+    "aemo_map_lat": -30.08553,
+    "aemo_map_lon": 152.05847
   },
   {
     "site_name": "Bellambi Heights Battery Energy Storage System Stage 1  (BHBESS1)",
@@ -30277,7 +30479,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 120,
     "aemo_map_label": "Wollar",
-    "vision_match_conf": 0.9
+    "vision_match_conf": 0.9,
+    "aemo_map_lat": -32.48891,
+    "aemo_map_lon": 150.84206
   },
   {
     "site_name": "Panorama Battery Energy Storage System",
@@ -30573,15 +30777,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -22.69408121332176,
-    "lon": 145.92398927389863,
+    "lat": -19.10366,
+    "lon": 146.56529,
     "lat_approx": -22.69408121332176,
     "lon_approx": 145.92398927389863,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 243,
     "aemo_map_label": "Yabulu South",
-    "vision_match_conf": 0.89
+    "vision_match_conf": 0.89,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "ACE - Yabulu Solar Farm",
@@ -30959,9 +31164,11 @@
     "geocode_display": "Fosterville, City of Greater Bendigo, Victoria, 3557, Australia",
     "geocoded": true,
     "aemo_map_stage": "Operational",
-    "aemo_map_capacity": 190,
-    "aemo_map_label": "Red Cliffs",
-    "vision_match_conf": 0.6
+    "aemo_map_capacity": 185,
+    "aemo_map_label": "Bega",
+    "vision_match_conf": 0.58,
+    "aemo_map_lat": -36.37278,
+    "aemo_map_lon": 147.91917
   },
   {
     "site_name": "Ballarat North BESS",
@@ -31597,7 +31804,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 273,
     "aemo_map_label": "Blackwater",
-    "vision_match_conf": 0.99
+    "vision_match_conf": 0.99,
+    "aemo_map_lat": -23.99958,
+    "aemo_map_lon": 148.55595
   },
   {
     "site_name": "Blanche BESS",
@@ -31921,7 +32130,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 50,
     "aemo_map_label": "Hughenden",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -21.17501,
+    "aemo_map_lon": 144.29686
   },
   {
     "site_name": "Bouldercombe North BESS",
@@ -32035,15 +32246,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -23.106344386101455,
-    "lon": 143.91809691353814,
+    "lat": -20.04518,
+    "lon": 146.33382,
     "lat_approx": -23.106344386101455,
     "lon_approx": 143.91809691353814,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 500,
     "aemo_map_label": "Bowen North",
-    "vision_match_conf": 0.8
+    "vision_match_conf": 0.8,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Brampton Solar Farm",
@@ -32071,7 +32283,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 55,
     "aemo_map_label": "King Creek / Strathmore",
-    "vision_match_conf": 0.71
+    "vision_match_conf": 0.71,
+    "aemo_map_lat": -20.32764,
+    "aemo_map_lon": 146.33382
   },
   {
     "site_name": "Brewongle Solar Power Station",
@@ -32381,7 +32595,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 480,
     "aemo_map_label": "Bulli Creek / Yarranlea",
-    "vision_match_conf": 0.86
+    "vision_match_conf": 0.86,
+    "aemo_map_lat": -28.7072,
+    "aemo_map_lon": 150.50032
   },
   {
     "site_name": "Bundey BESS and Solar Site 1A",
@@ -32553,7 +32769,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 200,
     "aemo_map_label": "Clare South",
-    "vision_match_conf": 0.82
+    "vision_match_conf": 0.82,
+    "aemo_map_lat": -19.9981,
+    "aemo_map_lon": 147.39859
   },
   {
     "site_name": "Buronga BESS",
@@ -32571,15 +32789,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -34.47239551521521,
-    "lon": 148.363672221898,
+    "lat": -34.71091,
+    "lon": 142.4173,
     "lat_approx": -34.47239551521521,
     "lon_approx": 148.363672221898,
     "geocoded": false,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 200,
     "aemo_map_label": "Buronga",
-    "vision_match_conf": 0.8
+    "vision_match_conf": 0.8,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Burrawong Wind Farm",
@@ -33007,7 +33226,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 155,
     "aemo_map_label": "Arthurs Lake",
-    "vision_match_conf": 0.58
+    "vision_match_conf": 0.58,
+    "aemo_map_lat": -41.97875,
+    "aemo_map_lon": 147.04755
   },
   {
     "site_name": "Cellars Hill Wind Farm",
@@ -33211,15 +33432,20 @@
     "unit_status": "",
     "asset_type": "Project",
     "location_desc": "Collinsville - connecting at Strathmore substation",
-    "stage": "Enquiry",
+    "stage": "Existing",
     "source": "KCI",
-    "on_aemo_map": false,
+    "on_aemo_map": true,
     "duid": "",
-    "lat": -18.837884676297016,
-    "lon": 142.92214027197835,
+    "lat": -20.61009,
+    "lon": 146.4727,
     "lat_approx": -18.837884676297016,
     "lon_approx": 142.92214027197835,
-    "geocoded": false
+    "geocoded": false,
+    "aemo_map_stage": "Operational",
+    "aemo_map_capacity": 453,
+    "aemo_map_label": "Collinsville",
+    "coords_source": "aemo_map_vision",
+    "vision_match_conf": 0.67
   },
   {
     "site_name": "Colosseum Solar Farm",
@@ -33413,7 +33639,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 556,
     "aemo_map_label": "Mortlake",
-    "vision_match_conf": 0.99
+    "vision_match_conf": 0.99,
+    "aemo_map_lat": -38.42812,
+    "aemo_map_lon": 142.60584
   },
   {
     "site_name": "Corop Solar Farm & BESS",
@@ -33641,15 +33869,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -33.60617759964084,
-    "lon": 139.96040815185094,
+    "lat": -32.69012,
+    "lon": 137.63269,
     "lat_approx": -33.60617759964084,
     "lon_approx": 139.96040815185094,
     "geocoded": false,
     "aemo_map_stage": "Operational",
-    "aemo_map_capacity": 770,
+    "aemo_map_capacity": 212,
     "aemo_map_label": "Davenport",
-    "vision_match_conf": 0.61
+    "vision_match_conf": 0.87,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Dawson Wind Farm - Prospect Connection",
@@ -33923,15 +34152,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -33.56737128061062,
-    "lon": 139.05423906142497,
+    "lat": -37.80909,
+    "lon": 140.42114,
     "lat_approx": -33.56737128061062,
     "lon_approx": 139.05423906142497,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 77,
     "aemo_map_label": "Mayura",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Dueran Solar Farm",
@@ -34310,8 +34540,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 50,
-    "aemo_map_label": "Murray River area",
-    "vision_match_conf": 0.58
+    "aemo_map_label": "Murray River",
+    "vision_match_conf": 0.58,
+    "aemo_map_lat": -36.01007,
+    "aemo_map_lon": 143.36039
   },
   {
     "site_name": "Emu Park \u2013 Hybrid (PV+ BESS)",
@@ -34363,7 +34595,9 @@
     "aemo_map_stage": "Commissioning",
     "aemo_map_capacity": 660,
     "aemo_map_label": "Eraring",
-    "vision_match_conf": 0.97
+    "vision_match_conf": 0.97,
+    "aemo_map_lat": -33.3505,
+    "aemo_map_lon": 151.96837
   },
   {
     "site_name": "Eraring BESS \u2013 Stage 2",
@@ -34573,15 +34807,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -30.7093266759344,
-    "lon": 149.32363740516138,
+    "lat": -32.85169,
+    "lon": 146.65221,
     "lat_approx": -30.7093266759344,
     "lon_approx": 149.32363740516138,
     "geocoded": false,
-    "aemo_map_stage": "Operational",
-    "aemo_map_capacity": 50,
+    "aemo_map_stage": "Application",
+    "aemo_map_capacity": 131,
     "aemo_map_label": "Forbes",
-    "vision_match_conf": 0.65
+    "vision_match_conf": 0.95,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Fraser Coast Solar Park",
@@ -34763,15 +34998,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -41.78151746840816,
-    "lon": 146.32676371846924,
+    "lat": -41.27848,
+    "lon": 146.18814,
     "lat_approx": -41.78151746840816,
     "lon_approx": 146.32676371846924,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 67,
     "aemo_map_label": "Sheffield",
-    "vision_match_conf": 0.57
+    "vision_match_conf": 0.57,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "George Town BESS",
@@ -34799,7 +35035,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 208,
     "aemo_map_label": "George Town",
-    "vision_match_conf": 0.76
+    "vision_match_conf": 0.76,
+    "aemo_map_lat": -41.19511,
+    "aemo_map_lon": 146.90023
   },
   {
     "site_name": "Geranium Plains Solar",
@@ -35011,7 +35249,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 207,
     "aemo_map_label": "Glen Innes",
-    "vision_match_conf": 0.85
+    "vision_match_conf": 0.85,
+    "aemo_map_lat": -29.49602,
+    "aemo_map_lon": 151.7431
   },
   {
     "site_name": "Glenroy Hybrid Project",
@@ -35721,7 +35961,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 1100,
     "aemo_map_label": "Murray",
-    "vision_match_conf": 0.55
+    "vision_match_conf": 0.55,
+    "aemo_map_lat": -35.34576,
+    "aemo_map_lon": 147.68841
   },
   {
     "site_name": "Hargraves Hybrid Project",
@@ -36036,8 +36278,10 @@
     "geocoded": true,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 178,
-    "aemo_map_label": "Horsham",
-    "vision_match_conf": 0.67
+    "aemo_map_label": "Horsham (north)",
+    "vision_match_conf": 0.67,
+    "aemo_map_lat": -36.67504,
+    "aemo_map_lon": 142.4172
   },
   {
     "site_name": "Hills of Gold",
@@ -36161,7 +36405,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 178,
     "aemo_map_label": "Cairns / Kamerunga",
-    "vision_match_conf": 0.59
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -16.98523,
+    "aemo_map_lon": 145.87087
   },
   {
     "site_name": "Horsham Solar Farm & BESS",
@@ -36873,7 +37119,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 150,
     "aemo_map_label": "East VIC",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -37.03774,
+    "aemo_map_lon": 147.19606
   },
   {
     "site_name": "Kumbarilla Renewable Energy Park (K-REP)",
@@ -37143,15 +37391,20 @@
     "unit_status": "",
     "asset_type": "Project",
     "location_desc": "Liddell 330kV Substation",
-    "stage": "Enquiry",
+    "stage": "Application",
     "source": "KCI",
-    "on_aemo_map": false,
+    "on_aemo_map": true,
     "duid": "",
-    "lat": -31.62018912628245,
-    "lon": 149.7159063788859,
+    "lat": -32.71565,
+    "lon": 152.50899,
     "lat_approx": -31.62018912628245,
     "lon_approx": 149.7159063788859,
-    "geocoded": false
+    "geocoded": false,
+    "aemo_map_stage": "Application",
+    "aemo_map_capacity": 850,
+    "aemo_map_label": "Liddell",
+    "coords_source": "aemo_map_vision",
+    "vision_match_conf": 0.75
   },
   {
     "site_name": "Lilyvale BESS",
@@ -37571,7 +37824,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 22,
     "aemo_map_label": "Waddamana",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -42.47894,
+    "aemo_map_lon": 146.63012
   },
   {
     "site_name": "Lubeck Wind Farm",
@@ -37969,15 +38224,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -35.89728155310076,
-    "lon": 144.26313823827016,
+    "lat": -38.48858,
+    "lon": 145.24679,
     "lat_approx": -35.89728155310076,
     "lon_approx": 144.26313823827016,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 160,
-    "aemo_map_label": "Melbourne CBD ref #1",
-    "vision_match_conf": 0.66
+    "aemo_map_label": "Melbourne #1",
+    "vision_match_conf": 0.93,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Melbourne Renewable Energy Complex",
@@ -38053,7 +38309,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 985,
     "aemo_map_label": "Cooma area",
-    "vision_match_conf": 0.59
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -35.93527,
+    "aemo_map_lon": 149.03997
   },
   {
     "site_name": "Merriwa SF",
@@ -38143,15 +38401,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -33.812811854989576,
-    "lon": 149.39883855060486,
+    "lat": -31.44594,
+    "lon": 151.06732,
     "lat_approx": -33.812811854989576,
     "lon_approx": 149.39883855060486,
     "geocoded": false,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 450,
     "aemo_map_label": "Tamworth",
-    "vision_match_conf": 0.87
+    "vision_match_conf": 0.87,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Middlebrook Solar Farm & BESS",
@@ -38597,7 +38856,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 146,
     "aemo_map_label": "Moranbah",
-    "vision_match_conf": 0.89
+    "vision_match_conf": 0.89,
+    "aemo_map_lat": -21.55162,
+    "aemo_map_lon": 147.07453
   },
   {
     "site_name": "Morewell BESS",
@@ -38875,15 +39136,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -18.57441955600575,
-    "lon": 144.3057117829542,
+    "lat": -23.67005,
+    "lon": 151.42621,
     "lat_approx": -18.57441955600575,
     "lon_approx": 144.3057117829542,
     "geocoded": false,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 450,
     "aemo_map_label": "Larcom / Calliope",
-    "vision_match_conf": 0.79
+    "vision_match_conf": 0.79,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Mount Tom Solar Farm and BESS",
@@ -38993,15 +39255,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -21.28789828199522,
-    "lon": 143.99227446758564,
+    "lat": -17.69137,
+    "lon": 145.6394,
     "lat_approx": -21.28789828199522,
     "lon_approx": 143.99227446758564,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 311,
     "aemo_map_label": "Chalumbin",
-    "vision_match_conf": 0.98
+    "vision_match_conf": 0.98,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Mt Fox Energy Park Wind Farm",
@@ -39235,7 +39498,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 450,
     "aemo_map_label": "Muswellbrook",
-    "vision_match_conf": 0.93
+    "vision_match_conf": 0.93,
+    "aemo_map_lat": -32.21683,
+    "aemo_map_lon": 151.60795
   },
   {
     "site_name": "Myrtle Creek Solar Farm",
@@ -39285,7 +39550,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 100,
     "aemo_map_label": "Tenterfield",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -28.49839,
+    "aemo_map_lon": 152.28373
   },
   {
     "site_name": "Narrabri Solar Farm",
@@ -39443,9 +39710,9 @@
     "unit_status": "",
     "asset_type": "Project",
     "location_desc": "Newport",
-    "stage": "Enquiry",
+    "stage": "Existing",
     "source": "KCI",
-    "on_aemo_map": false,
+    "on_aemo_map": true,
     "duid": "",
     "lat": -37.8423338,
     "lon": 144.8835584,
@@ -39453,7 +39720,13 @@
     "lon_approx": 143.50872242725114,
     "geocode_query": "Newport, VIC, Australia",
     "geocode_display": "Newport, Platform 2, Newport, Melbourne, Victoria, 3015, Australia",
-    "geocoded": true
+    "geocoded": true,
+    "aemo_map_stage": "Operational",
+    "aemo_map_capacity": 344,
+    "aemo_map_label": "Melbourne #2 Newport",
+    "aemo_map_lat": -38.3979,
+    "aemo_map_lon": 145.24679,
+    "vision_match_conf": 0.64
   },
   {
     "site_name": "Nook Battery",
@@ -39809,7 +40082,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 300,
     "aemo_map_label": "Wellington",
-    "vision_match_conf": 0.83
+    "vision_match_conf": 0.83,
+    "aemo_map_lat": -32.30753,
+    "aemo_map_lon": 148.72461
   },
   {
     "site_name": "Orange Grove Solar Farm",
@@ -39965,15 +40240,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -22.338247419953976,
-    "lon": 143.07505439759015,
+    "lat": -22.11653,
+    "lon": 149.62072,
     "lat_approx": -22.338247419953976,
     "lon_approx": 143.07505439759015,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 296,
     "aemo_map_label": "Hayes Point / Rockhampton",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Pacific Hydro - Bunkers Hill Wind Farm",
@@ -40085,15 +40361,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -41.89246500361296,
-    "lon": 146.7911867750464,
+    "lat": -41.97875,
+    "lon": 146.70379,
     "lat_approx": -41.89246500361296,
     "lon_approx": 146.7911867750464,
     "geocoded": false,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 155,
     "aemo_map_label": "Palmerston",
-    "vision_match_conf": 0.79
+    "vision_match_conf": 0.79,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Palmerston Big Battery",
@@ -40111,15 +40388,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -41.77198406981114,
-    "lon": 146.09986582127104,
+    "lat": -41.84536,
+    "lon": 146.80201,
     "lat_approx": -41.77198406981114,
     "lon_approx": 146.09986582127104,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 372,
     "aemo_map_label": "Palmerston",
-    "vision_match_conf": 0.88
+    "vision_match_conf": 0.88,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Para Substation/Gould Creek BESS",
@@ -40147,7 +40425,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 237,
     "aemo_map_label": "Adelaide CBD ref #3",
-    "vision_match_conf": 0.57
+    "vision_match_conf": 0.57,
+    "aemo_map_lat": -35.79418,
+    "aemo_map_lon": 136.39657
   },
   {
     "site_name": "Peel Valley Solar Hybrid",
@@ -40317,7 +40597,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 414,
     "aemo_map_label": "Ross",
-    "vision_match_conf": 0.98
+    "vision_match_conf": 0.98,
+    "aemo_map_lat": -19.57442,
+    "aemo_map_lon": 147.39859
   },
   {
     "site_name": "Pioneer BESS",
@@ -40383,15 +40665,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -26.245425668897727,
-    "lon": 147.49086245589447,
+    "lat": -26.73,
+    "lon": 148.69483,
     "lat_approx": -26.245425668897727,
     "lon_approx": 147.49086245589447,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 100,
     "aemo_map_label": "Roma",
-    "vision_match_conf": 0.88
+    "vision_match_conf": 0.88,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Port Augusta Renewable Energy Park",
@@ -40790,8 +41073,10 @@
     "geocoded": true,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 250,
-    "aemo_map_label": "South East / Mt Gambier",
-    "vision_match_conf": 0.6
+    "aemo_map_label": "South East",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -38.02692,
+    "aemo_map_lon": 140.93859
   },
   {
     "site_name": "Richmond Valley Solar Farm & BESS",
@@ -41231,15 +41516,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -20.423156476422626,
-    "lon": 149.32514134928894,
+    "lat": -23.90543,
+    "lon": 150.6855,
     "lat_approx": -20.423156476422626,
     "lon_approx": 149.32514134928894,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 314,
     "aemo_map_label": "Calvale",
-    "vision_match_conf": 0.87
+    "vision_match_conf": 0.87,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Smoky Creek Solar Farm",
@@ -41805,7 +42091,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 443,
     "aemo_map_label": "Townsville East",
-    "vision_match_conf": 0.74
+    "vision_match_conf": 0.74,
+    "aemo_map_lat": -19.43319,
+    "aemo_map_lon": 147.16712
   },
   {
     "site_name": "Tabulam Solar Farm & BESS",
@@ -41879,7 +42167,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 204,
     "aemo_map_label": "Adelaide CBD ref #5",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -36.06646,
+    "aemo_map_lon": 136.39657
   },
   {
     "site_name": "Talbingo Battery",
@@ -41967,15 +42257,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -33.328921940144284,
-    "lon": 148.69731729799224,
+    "lat": -31.71802,
+    "lon": 151.15743,
     "lat_approx": -33.328921940144284,
     "lon_approx": 148.69731729799224,
     "geocoded": false,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 300,
-    "aemo_map_label": "south of Tamworth",
-    "vision_match_conf": 1.0
+    "aemo_map_label": "Tamworth (south)",
+    "vision_match_conf": 1.0,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Tamworth Solar Farm",
@@ -42003,7 +42294,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 64,
     "aemo_map_label": "Dubbo",
-    "vision_match_conf": 0.59
+    "vision_match_conf": 0.59,
+    "aemo_map_lat": -31.80871,
+    "aemo_map_lon": 148.49935
   },
   {
     "site_name": "Tangkam BESS",
@@ -42145,7 +42438,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 376,
     "aemo_map_label": "Tarrone / Mortlake",
-    "vision_match_conf": 0.76
+    "vision_match_conf": 0.76,
+    "aemo_map_lat": -38.18632,
+    "aemo_map_lon": 142.4172
   },
   {
     "site_name": "Tchelery Wind Farm and BESS",
@@ -42363,7 +42658,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 400,
     "aemo_map_label": "Boggabri",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -30.81108,
+    "aemo_map_lon": 150.39154
   },
   {
     "site_name": "Tomago Battery",
@@ -42471,15 +42768,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -33.25537695146729,
-    "lon": 139.17201532879324,
+    "lat": -38.16306,
+    "lon": 140.50738,
     "lat_approx": -33.25537695146729,
     "lon_approx": 139.17201532879324,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 279,
     "aemo_map_label": "Mt Gambier",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Tramway BESS",
@@ -42507,7 +42805,9 @@
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 1600,
     "aemo_map_label": "Hazelwood",
-    "vision_match_conf": 0.81
+    "vision_match_conf": 0.81,
+    "aemo_map_lat": -38.48858,
+    "aemo_map_lon": 146.03278
   },
   {
     "site_name": "Triabunna Wind Farm & BESS",
@@ -42597,15 +42897,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -25.20207256782525,
-    "lon": 142.02806328316026,
+    "lat": -23.7642,
+    "lon": 151.70397,
     "lat_approx": -25.20207256782525,
     "lon_approx": 142.02806328316026,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 500,
     "aemo_map_label": "Boyne Island",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Tumuruu Solar & BESS Farm",
@@ -42671,15 +42972,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -34.122623997440776,
-    "lon": 139.1722966034351,
+    "lat": -33.34361,
+    "lon": 139.78871,
     "lat_approx": -34.122623997440776,
     "lon_approx": 139.1722966034351,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 270,
     "aemo_map_label": "Hallett area",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Tyrone Solar Farm",
@@ -42707,7 +43009,9 @@
     "aemo_map_stage": "Pre-Registration",
     "aemo_map_capacity": 400,
     "aemo_map_label": "Ingham",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -18.96243,
+    "aemo_map_lon": 145.45422
   },
   {
     "site_name": "Upper Burdekin Wind Farm",
@@ -42837,15 +43141,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -31.45276027547712,
-    "lon": 139.8345081752379,
+    "lat": -35.60358,
+    "lon": 138.35136,
     "lat_approx": -31.45276027547712,
     "lon_approx": 139.8345081752379,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 35,
     "aemo_map_label": "SE SA coast",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Wagga North Battery Energy Storage System",
@@ -43461,15 +43766,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -20.75406051934133,
-    "lon": 148.11821212568498,
+    "lat": -19.57442,
+    "lon": 146.61158,
     "lat_approx": -20.75406051934133,
     "lon_approx": 148.11821212568498,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 100,
     "aemo_map_label": "Garbutt / Townsville",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Western Downs Battery Project",
@@ -43533,15 +43839,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -33.944337108815134,
-    "lon": 146.90586695571582,
+    "lat": -29.90414,
+    "lon": 151.60795,
     "lat_approx": -33.944337108815134,
     "lon_approx": 146.90586695571582,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 175,
     "aemo_map_label": "Inverell",
-    "vision_match_conf": 0.9
+    "vision_match_conf": 0.9,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Whyalla BESS",
@@ -43559,15 +43866,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -32.76675802399688,
-    "lon": 141.03538102465092,
+    "lat": -32.96241,
+    "lon": 137.20149,
     "lat_approx": -32.76675802399688,
     "lon_approx": 141.03538102465092,
     "geocoded": false,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 100,
-    "aemo_map_label": "Stony Point / Whyalla Central",
-    "vision_match_conf": 0.8
+    "aemo_map_label": "Whyalla Central / Stony Point",
+    "vision_match_conf": 0.8,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Wildwood Solar Farm",
@@ -43712,8 +44020,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 386,
-    "aemo_map_label": "Melbourne CBD ref #3",
-    "vision_match_conf": 0.58
+    "aemo_map_label": "Melbourne #3 Jeeralang",
+    "vision_match_conf": 0.58,
+    "aemo_map_lat": -38.6397,
+    "aemo_map_lon": 146.1271
   },
   {
     "site_name": "Wimmera Plains Wind Farm",
@@ -43765,7 +44075,9 @@
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 7,
     "aemo_map_label": "Kiata",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -36.55413,
+    "aemo_map_lon": 141.53688
   },
   {
     "site_name": "Winton 30MW Battery",
@@ -43792,8 +44104,10 @@
     "geocoded": true,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 25,
-    "aemo_map_label": "Murray River area",
-    "vision_match_conf": 0.6
+    "aemo_map_label": "Murray River",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -35.94962,
+    "aemo_map_lon": 143.14032
   },
   {
     "site_name": "Winton Wetlands Solar and Battery",
@@ -44025,15 +44339,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -19.41448975822355,
-    "lon": 146.40457569554908,
+    "lat": -18.58582,
+    "lon": 145.50051,
     "lat_approx": -19.41448975822355,
     "lon_approx": 146.40457569554908,
     "geocoded": false,
     "aemo_map_stage": "Registration",
     "aemo_map_capacity": 300,
     "aemo_map_label": "Ingham South",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Yabulu Battery Energy Storage Systems",
@@ -44152,8 +44467,10 @@
     "geocoded": true,
     "aemo_map_stage": "Application",
     "aemo_map_capacity": 250,
-    "aemo_map_label": "Sydney South / Macarthur",
-    "vision_match_conf": 0.6
+    "aemo_map_label": "Sydney South",
+    "vision_match_conf": 0.6,
+    "aemo_map_lat": -34.93764,
+    "aemo_map_lon": 150.39154
   },
   {
     "site_name": "Yanco Delta Wind Farm Stage 1",
@@ -44193,15 +44510,16 @@
     "source": "KCI",
     "on_aemo_map": true,
     "duid": "",
-    "lat": -34.16171996774387,
-    "lon": 149.0213558277496,
+    "lat": -31.94475,
+    "lon": 148.22903,
     "lat_approx": -34.16171996774387,
     "lon_approx": 149.0213558277496,
     "geocoded": false,
     "aemo_map_stage": "Operational",
     "aemo_map_capacity": 80,
     "aemo_map_label": "Narromine",
-    "vision_match_conf": 0.6
+    "vision_match_conf": 0.6,
+    "coords_source": "aemo_map_vision"
   },
   {
     "site_name": "Yelarbon SF and BESS",
@@ -44265,11 +44583,12 @@
     "aemo_map_label": "Cooktown",
     "aemo_map_capacity": 13,
     "location_desc": "Cooktown",
-    "lat": -22.5,
-    "lon": 145.5,
+    "lat": -15.94955,
+    "lon": 144.99128,
     "lat_approx": -22.5,
     "lon_approx": 145.5,
     "geocoded": false,
-    "vision_match_conf": 0.0
+    "vision_match_conf": 1.0,
+    "coords_source": "aemo_map_vision"
   }
 ]
