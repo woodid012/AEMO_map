@@ -66,6 +66,10 @@ def main():
     else:
         print("\n(skipping geocode)")
 
+    # Fallback geocoder runs every time — fills gaps from substation snap, town
+    # offsets, offshore zones, address parsing, manual overrides.
+    run("fallback_geocoder.py")
+
     if not args.skip_transmission:
         run("fetch_transmission_lines.py")
         run("slim_transmission.py")

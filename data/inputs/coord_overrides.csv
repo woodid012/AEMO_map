@@ -1,0 +1,6 @@
+site_name,lat,lon,source_note
+# Manual coordinate overrides — checked here FIRST by fallback_geocoder.py
+# Use to fix known-bad geocodes or to nail down high-value projects.
+# Match is case-insensitive on site_name (whole name, not substring).
+# Example:
+# Snowtown Wind Farm,-33.92,138.31,confirmed from owner site map
